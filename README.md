@@ -38,6 +38,7 @@ This repository contains SQL and data analytics projects completed using MySQL a
 - GitHub
 - Data Analysis
 - Data Visualization
+- GitHub
 
 ## Certifications
 
