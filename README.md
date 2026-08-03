@@ -34,6 +34,7 @@ This repository contains SQL and data analytics projects completed using MySQL a
 - MySQL
 - SQL
 - MySQL Workbench
+- Power BI
 - Looker Studio
 - GitHub
 - Data Analysis
