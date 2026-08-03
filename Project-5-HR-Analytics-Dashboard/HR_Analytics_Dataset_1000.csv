@@ -1,0 +1,1001 @@
+EmployeeID,EmployeeCode,Gender,Age,Department,JobRole,MonthlySalary,HireDate,YearsAtCompany,PerformanceRating,JobSatisfaction,Attrition,Education,Overtime,City
+1,EMP0001,Male,35,Operations,Coordinator,5786,2026-03-11,0,1,5,Yes,High School,No,Kyiv
+2,EMP0002,Male,56,Sales,Sales Rep,6757,2020-04-02,6,5,4,No,Master,No,Kyiv
+3,EMP0003,Female,30,IT,Support,7027,2013-02-08,13,3,1,Yes,Master,Yes,Ternopil
+4,EMP0004,Male,45,HR,HR Specialist,4791,2024-12-06,1,5,3,No,Master,Yes,Kyiv
+5,EMP0005,Male,27,Sales,Sales Rep,9727,2017-06-21,9,3,4,No,Bachelor,No,Ternopil
+6,EMP0006,Male,59,IT,Support,13903,2017-08-06,8,2,5,No,Bachelor,No,Gdansk
+7,EMP0007,Male,23,HR,HR Specialist,16689,2016-07-03,10,3,4,No,Bachelor,Yes,Ternopil
+8,EMP0008,Female,30,IT,Support,7839,2011-01-12,15,2,2,No,High School,No,Gdansk
+9,EMP0009,Male,53,Marketing,Marketing Specialist,11585,2015-04-11,11,1,1,Yes,Bachelor,Yes,Gdansk
+10,EMP0010,Female,54,Marketing,Marketing Specialist,7619,2014-01-18,12,5,1,Yes,High School,No,Ternopil
+11,EMP0011,Female,21,Sales,Sales Manager,15330,2013-05-13,13,3,5,No,High School,Yes,Ternopil
+12,EMP0012,Male,55,Operations,Coordinator,16257,2022-01-20,4,5,1,No,Master,No,Kyiv
+13,EMP0013,Male,36,Sales,Sales Manager,17885,2017-03-31,9,5,1,Yes,High School,No,Kyiv
+14,EMP0014,Female,56,Marketing,Marketing Specialist,6205,2021-08-27,4,3,5,No,Master,Yes,Lviv
+15,EMP0015,Female,49,Operations,Coordinator,11979,2013-08-23,12,4,1,No,Bachelor,Yes,Ternopil
+16,EMP0016,Male,25,Sales,Sales Rep,15097,2008-04-12,18,1,2,Yes,Bachelor,No,Kyiv
+17,EMP0017,Female,34,Marketing,Marketing Specialist,12334,2017-08-23,8,2,5,No,Master,Yes,Gdansk
+18,EMP0018,Female,43,Finance,Accountant,10439,2023-06-11,3,4,4,Yes,High School,Yes,Kyiv
+19,EMP0019,Male,33,Finance,Financial Analyst,12286,2023-03-25,3,4,2,No,Bachelor,No,Gdansk
+20,EMP0020,Male,24,IT,Data Analyst,14184,2011-10-25,14,5,1,Yes,Bachelor,Yes,Gdansk
+21,EMP0021,Male,31,Finance,Financial Analyst,9709,2020-01-07,6,1,4,No,Master,No,Gdansk
+22,EMP0022,Female,34,Operations,Coordinator,4458,2022-04-24,4,5,5,Yes,High School,No,Kyiv
+23,EMP0023,Male,24,Sales,Sales Manager,11820,2009-11-04,16,1,2,Yes,High School,Yes,Lviv
+24,EMP0024,Male,60,Finance,Accountant,4843,2008-03-29,18,4,5,No,High School,No,Ternopil
+25,EMP0025,Female,46,IT,Support,5644,2016-03-31,10,3,4,No,Bachelor,Yes,Gdansk
+26,EMP0026,Male,53,Marketing,Marketing Specialist,7845,2023-10-28,2,2,3,Yes,Bachelor,No,Ternopil
+27,EMP0027,Female,60,IT,BI Developer,16723,2008-08-07,17,5,1,No,Master,Yes,Lviv
+28,EMP0028,Male,38,HR,HR Specialist,8116,2022-10-20,3,5,2,No,Bachelor,No,Gdansk
+29,EMP0029,Female,38,HR,HR Specialist,4222,2023-09-09,2,1,3,No,High School,No,Lviv
+30,EMP0030,Female,56,Operations,Coordinator,3658,2008-08-06,17,1,1,No,High School,Yes,Ternopil
+31,EMP0031,Male,40,Marketing,Marketing Specialist,9474,2013-05-28,13,1,3,No,High School,Yes,Kyiv
+32,EMP0032,Male,31,HR,HR Specialist,16605,2007-05-16,19,2,4,Yes,Bachelor,No,Gdansk
+33,EMP0033,Male,45,Operations,Coordinator,17789,2018-05-11,8,1,4,No,Bachelor,No,Ternopil
+34,EMP0034,Male,46,HR,HR Specialist,8878,2019-07-19,7,3,1,No,Master,No,Ternopil
+35,EMP0035,Female,23,Sales,Sales Rep,5276,2018-05-01,8,5,4,No,High School,No,Gdansk
+36,EMP0036,Male,37,Marketing,Marketing Specialist,4227,2013-10-10,12,4,1,No,High School,Yes,Ternopil
+37,EMP0037,Female,28,Finance,Accountant,15292,2015-09-16,10,3,5,No,High School,No,Ternopil
+38,EMP0038,Male,47,Finance,Financial Analyst,14394,2009-05-29,17,4,2,No,High School,No,Gdansk
+39,EMP0039,Male,48,Marketing,Marketing Specialist,16373,2017-03-07,9,5,5,No,Master,No,Gdansk
+40,EMP0040,Male,26,Operations,Coordinator,8149,2009-12-03,16,5,5,No,Bachelor,Yes,Ternopil
+41,EMP0041,Male,36,IT,Data Analyst,11284,2022-07-18,4,5,1,No,Master,Yes,Gdansk
+42,EMP0042,Male,27,Finance,Financial Analyst,16253,2019-05-17,7,4,2,No,High School,No,Kyiv
+43,EMP0043,Male,50,Marketing,Marketing Specialist,14437,2022-12-09,3,5,5,No,Master,No,Gdansk
+44,EMP0044,Female,37,Marketing,Marketing Specialist,15817,2020-11-29,5,2,3,No,Master,Yes,Ternopil
+45,EMP0045,Female,42,Finance,Accountant,8738,2017-04-02,9,5,1,No,Bachelor,Yes,Gdansk
+46,EMP0046,Female,47,Operations,Coordinator,8921,2020-06-28,6,5,4,No,Bachelor,Yes,Gdansk
+47,EMP0047,Female,21,Finance,Accountant,9263,2008-01-21,18,3,4,No,High School,Yes,Gdansk
+48,EMP0048,Male,45,IT,BI Developer,9007,2012-11-26,13,4,2,No,Bachelor,Yes,Gdansk
+49,EMP0049,Female,29,Marketing,Marketing Specialist,17702,2023-09-04,2,4,2,Yes,Master,No,Ternopil
+50,EMP0050,Female,38,IT,BI Developer,15820,2016-02-10,10,4,3,Yes,Master,Yes,Kyiv
+51,EMP0051,Male,22,HR,HR Specialist,7551,2006-06-29,20,2,1,No,Bachelor,Yes,Lviv
+52,EMP0052,Female,37,Finance,Accountant,16064,2008-04-13,18,3,2,No,High School,Yes,Lviv
+53,EMP0053,Female,57,HR,HR Specialist,14597,2008-07-20,18,4,4,No,Bachelor,Yes,Kyiv
+54,EMP0054,Male,43,Operations,Coordinator,12228,2007-06-03,19,4,3,Yes,High School,No,Kyiv
+55,EMP0055,Female,50,Finance,Financial Analyst,15088,2022-12-21,3,2,4,No,High School,No,Gdansk
+56,EMP0056,Female,36,Finance,Financial Analyst,17110,2008-03-18,18,1,3,No,Bachelor,No,Gdansk
+57,EMP0057,Male,52,HR,HR Specialist,6975,2011-02-17,15,3,3,No,Master,No,Kyiv
+58,EMP0058,Female,52,Marketing,Marketing Specialist,12596,2024-03-28,2,2,4,No,Master,Yes,Kyiv
+59,EMP0059,Male,40,HR,HR Specialist,14378,2013-08-12,12,5,3,No,High School,No,Gdansk
+60,EMP0060,Female,38,Operations,Coordinator,8523,2014-08-07,11,3,2,Yes,High School,Yes,Ternopil
+61,EMP0061,Female,38,Sales,Sales Rep,15371,2020-04-11,6,5,5,No,Master,Yes,Lviv
+62,EMP0062,Female,21,HR,HR Specialist,15100,2015-05-02,11,5,2,No,Bachelor,Yes,Ternopil
+63,EMP0063,Male,21,Operations,Coordinator,12905,2005-11-25,20,3,4,No,Master,No,Lviv
+64,EMP0064,Male,46,Sales,Sales Manager,11556,2011-06-05,15,1,5,Yes,Bachelor,Yes,Ternopil
+65,EMP0065,Female,59,Sales,Sales Rep,13266,2022-10-18,3,5,2,No,Master,No,Gdansk
+66,EMP0066,Male,60,HR,HR Specialist,15625,2016-10-13,9,1,2,No,Master,Yes,Lviv
+67,EMP0067,Male,21,IT,Data Analyst,10193,2009-06-25,17,4,5,No,Master,Yes,Lviv
+68,EMP0068,Male,37,HR,HR Specialist,16407,2012-06-26,14,5,2,No,Bachelor,Yes,Lviv
+69,EMP0069,Male,40,HR,HR Specialist,13249,2024-06-29,2,5,3,No,Bachelor,No,Ternopil
+70,EMP0070,Female,49,Operations,Coordinator,4817,2017-11-17,8,5,1,No,High School,No,Ternopil
+71,EMP0071,Male,38,Sales,Sales Rep,12941,2018-08-20,7,1,2,No,High School,No,Ternopil
+72,EMP0072,Female,26,IT,Support,11200,2012-09-10,13,3,4,No,Master,Yes,Lviv
+73,EMP0073,Female,56,HR,HR Specialist,4101,2011-03-08,15,4,1,No,Master,No,Kyiv
+74,EMP0074,Female,24,Finance,Accountant,6573,2008-12-09,17,5,3,No,Master,No,Kyiv
+75,EMP0075,Female,49,IT,BI Developer,17931,2009-05-27,17,4,1,Yes,High School,Yes,Lviv
+76,EMP0076,Male,35,HR,HR Specialist,17285,2009-01-06,17,1,4,Yes,High School,Yes,Gdansk
+77,EMP0077,Female,47,Operations,Coordinator,17176,2009-08-06,16,4,4,No,Master,Yes,Gdansk
+78,EMP0078,Male,38,IT,Support,16159,2010-05-25,16,4,3,No,Master,Yes,Ternopil
+79,EMP0079,Female,30,Operations,Coordinator,10816,2007-10-11,18,5,4,No,Master,No,Gdansk
+80,EMP0080,Female,35,HR,HR Specialist,17524,2018-10-12,7,4,1,No,High School,No,Gdansk
+81,EMP0081,Male,53,Finance,Accountant,13169,2011-07-15,15,3,1,No,Bachelor,No,Kyiv
+82,EMP0082,Male,25,Operations,Coordinator,11192,2012-08-31,13,3,3,No,High School,No,Kyiv
+83,EMP0083,Female,55,HR,HR Specialist,4088,2015-09-15,10,5,1,No,High School,No,Lviv
+84,EMP0084,Male,49,Operations,Coordinator,6225,2013-06-12,13,3,1,Yes,Master,Yes,Ternopil
+85,EMP0085,Male,54,HR,HR Specialist,10251,2013-05-19,13,5,2,No,Bachelor,Yes,Gdansk
+86,EMP0086,Male,35,Marketing,Marketing Specialist,11055,2010-10-08,15,3,4,No,High School,Yes,Gdansk
+87,EMP0087,Female,58,HR,HR Specialist,8401,2023-12-16,2,4,3,No,Master,Yes,Gdansk
+88,EMP0088,Female,57,Finance,Accountant,8347,2019-01-17,7,3,1,No,Master,Yes,Kyiv
+89,EMP0089,Female,35,Marketing,Marketing Specialist,13930,2017-04-05,9,2,5,No,High School,Yes,Kyiv
+90,EMP0090,Male,58,Operations,Coordinator,9477,2016-12-18,9,2,1,No,Master,No,Lviv
+91,EMP0091,Female,31,IT,Data Analyst,7710,2009-01-27,17,4,3,No,Bachelor,No,Kyiv
+92,EMP0092,Female,26,IT,Data Analyst,16454,2013-10-20,12,4,1,No,High School,Yes,Gdansk
+93,EMP0093,Female,27,HR,HR Specialist,14556,2008-01-20,18,2,4,Yes,High School,No,Lviv
+94,EMP0094,Female,47,Operations,Coordinator,5411,2005-12-09,20,2,1,Yes,Master,No,Kyiv
+95,EMP0095,Female,50,Sales,Sales Rep,9578,2009-05-25,17,5,4,No,High School,Yes,Gdansk
+96,EMP0096,Female,38,Operations,Coordinator,4036,2010-09-21,15,3,2,No,Master,Yes,Ternopil
+97,EMP0097,Female,24,Sales,Sales Manager,10023,2008-09-06,17,3,2,Yes,Master,Yes,Lviv
+98,EMP0098,Male,29,Operations,Coordinator,16393,2025-02-09,1,5,2,Yes,High School,Yes,Lviv
+99,EMP0099,Male,38,IT,BI Developer,17564,2021-09-28,4,2,2,No,Master,Yes,Kyiv
+100,EMP0100,Female,36,Operations,Coordinator,13147,2022-07-23,4,3,1,No,Master,Yes,Lviv
+101,EMP0101,Male,51,Operations,Coordinator,10844,2010-06-05,16,3,5,No,Bachelor,No,Lviv
+102,EMP0102,Female,22,Marketing,Marketing Specialist,4496,2010-03-01,16,4,4,No,High School,Yes,Gdansk
+103,EMP0103,Female,59,Operations,Coordinator,5930,2024-06-18,2,1,2,No,High School,No,Gdansk
+104,EMP0104,Female,27,Marketing,Marketing Specialist,16494,2011-11-17,14,1,5,No,Master,No,Lviv
+105,EMP0105,Female,27,Finance,Financial Analyst,8620,2012-01-10,14,4,3,No,Master,Yes,Gdansk
+106,EMP0106,Female,27,Sales,Sales Rep,15699,2024-06-12,2,3,2,No,Bachelor,No,Kyiv
+107,EMP0107,Female,59,Finance,Financial Analyst,8619,2013-07-06,13,3,1,No,High School,Yes,Lviv
+108,EMP0108,Female,56,Operations,Coordinator,9522,2019-06-06,7,1,3,No,Bachelor,No,Kyiv
+109,EMP0109,Female,40,Marketing,Marketing Specialist,9067,2026-04-28,0,3,1,No,Bachelor,No,Kyiv
+110,EMP0110,Male,54,IT,Support,7024,2006-07-19,20,4,4,No,Master,Yes,Ternopil
+111,EMP0111,Male,24,HR,HR Specialist,6049,2007-10-02,18,2,5,Yes,High School,Yes,Ternopil
+112,EMP0112,Female,47,Finance,Financial Analyst,7975,2010-09-26,15,2,5,Yes,Master,No,Kyiv
+113,EMP0113,Female,23,HR,HR Specialist,7112,2009-08-26,16,4,5,Yes,Bachelor,Yes,Ternopil
+114,EMP0114,Female,28,IT,Data Analyst,3626,2018-03-05,8,4,4,No,Bachelor,No,Lviv
+115,EMP0115,Male,48,Marketing,Marketing Specialist,3807,2024-01-08,2,4,1,No,High School,No,Gdansk
+116,EMP0116,Female,22,Operations,Coordinator,8821,2017-06-03,9,2,5,No,High School,No,Kyiv
+117,EMP0117,Female,54,Finance,Accountant,4788,2018-12-20,7,4,3,No,Bachelor,No,Lviv
+118,EMP0118,Male,43,Sales,Sales Rep,9252,2009-11-14,16,2,2,Yes,Bachelor,No,Lviv
+119,EMP0119,Male,32,IT,Support,16162,2021-08-29,4,4,4,No,High School,No,Ternopil
+120,EMP0120,Male,51,Operations,Coordinator,10745,2021-12-17,4,3,3,No,Bachelor,No,Kyiv
+121,EMP0121,Male,44,HR,HR Specialist,17126,2012-07-13,14,3,1,Yes,High School,No,Gdansk
+122,EMP0122,Male,41,Marketing,Marketing Specialist,13412,2011-10-14,14,4,5,No,Bachelor,No,Kyiv
+123,EMP0123,Male,23,HR,HR Specialist,7559,2009-09-06,16,4,4,No,High School,Yes,Ternopil
+124,EMP0124,Female,59,HR,HR Specialist,4357,2014-01-04,12,3,1,No,Bachelor,No,Ternopil
+125,EMP0125,Male,43,HR,HR Specialist,8582,2016-06-20,10,4,2,No,High School,Yes,Ternopil
+126,EMP0126,Male,54,Marketing,Marketing Specialist,5031,2006-02-16,20,4,5,No,Bachelor,No,Ternopil
+127,EMP0127,Male,35,IT,Data Analyst,5753,2015-11-26,10,2,1,No,Bachelor,Yes,Ternopil
+128,EMP0128,Male,31,Marketing,Marketing Specialist,6462,2007-01-23,19,5,2,No,Bachelor,No,Ternopil
+129,EMP0129,Female,49,Operations,Coordinator,7333,2011-09-24,14,5,2,No,Master,Yes,Ternopil
+130,EMP0130,Female,53,Operations,Coordinator,12141,2012-03-10,14,4,2,No,High School,Yes,Ternopil
+131,EMP0131,Male,54,Sales,Sales Manager,17445,2014-10-22,11,1,3,Yes,Bachelor,No,Gdansk
+132,EMP0132,Male,49,Marketing,Marketing Specialist,17993,2013-06-16,13,3,1,No,Bachelor,No,Ternopil
+133,EMP0133,Male,22,IT,BI Developer,8721,2024-01-20,2,1,3,No,Bachelor,Yes,Ternopil
+134,EMP0134,Male,26,Finance,Accountant,3811,2010-12-16,15,3,2,No,High School,No,Kyiv
+135,EMP0135,Male,36,HR,HR Specialist,10378,2017-05-30,9,5,4,Yes,Bachelor,No,Kyiv
+136,EMP0136,Female,21,Operations,Coordinator,13573,2022-03-03,4,3,2,No,Master,Yes,Kyiv
+137,EMP0137,Male,45,Marketing,Marketing Specialist,17808,2023-11-03,2,4,1,No,Master,No,Kyiv
+138,EMP0138,Male,58,HR,HR Specialist,15545,2015-03-31,11,3,2,Yes,Master,No,Lviv
+139,EMP0139,Male,29,Operations,Coordinator,4533,2010-09-13,15,4,1,No,Bachelor,Yes,Lviv
+140,EMP0140,Female,55,Sales,Sales Manager,11256,2016-11-10,9,3,1,No,Master,No,Kyiv
+141,EMP0141,Female,48,Operations,Coordinator,10053,2018-05-29,8,4,4,No,Bachelor,No,Gdansk
+142,EMP0142,Male,48,HR,HR Specialist,13370,2023-12-25,2,2,5,No,Master,Yes,Kyiv
+143,EMP0143,Female,31,HR,HR Specialist,14801,2016-12-15,9,4,3,No,Bachelor,No,Gdansk
+144,EMP0144,Female,44,HR,HR Specialist,11906,2023-08-21,2,2,1,No,High School,No,Kyiv
+145,EMP0145,Female,44,IT,Data Analyst,9772,2018-09-04,7,5,1,No,Bachelor,No,Ternopil
+146,EMP0146,Male,54,HR,HR Specialist,9512,2023-10-10,2,4,3,No,Bachelor,Yes,Kyiv
+147,EMP0147,Female,56,Operations,Coordinator,5429,2010-11-10,15,3,3,No,Bachelor,No,Gdansk
+148,EMP0148,Female,32,IT,Data Analyst,15187,2022-06-23,4,4,1,No,High School,No,Kyiv
+149,EMP0149,Male,44,Marketing,Marketing Specialist,11835,2017-05-12,9,2,1,No,Bachelor,Yes,Gdansk
+150,EMP0150,Female,50,Sales,Sales Manager,16667,2008-10-13,17,5,2,No,Bachelor,Yes,Ternopil
+151,EMP0151,Female,57,Finance,Financial Analyst,4708,2010-01-04,16,2,3,Yes,Master,No,Ternopil
+152,EMP0152,Male,29,IT,Support,10588,2005-10-07,20,5,1,Yes,High School,Yes,Ternopil
+153,EMP0153,Male,43,IT,Data Analyst,12001,2015-08-03,10,3,1,No,Bachelor,No,Lviv
+154,EMP0154,Male,53,Operations,Coordinator,14001,2006-11-03,19,2,5,No,Bachelor,Yes,Ternopil
+155,EMP0155,Male,57,Marketing,Marketing Specialist,7836,2026-06-18,0,2,5,No,High School,Yes,Gdansk
+156,EMP0156,Female,36,Operations,Coordinator,16684,2006-03-02,20,4,3,No,Bachelor,Yes,Lviv
+157,EMP0157,Male,42,Finance,Financial Analyst,13439,2010-12-08,15,2,3,No,High School,No,Gdansk
+158,EMP0158,Male,41,IT,BI Developer,7460,2009-10-19,16,4,1,No,Master,Yes,Lviv
+159,EMP0159,Female,36,Sales,Sales Rep,17677,2017-01-16,9,2,3,No,High School,No,Lviv
+160,EMP0160,Female,40,IT,BI Developer,11648,2009-12-06,16,1,1,No,High School,No,Lviv
+161,EMP0161,Male,39,IT,Support,11608,2015-07-08,11,5,4,No,High School,Yes,Kyiv
+162,EMP0162,Female,44,Finance,Accountant,4241,2018-01-25,8,4,1,No,High School,Yes,Ternopil
+163,EMP0163,Female,56,Marketing,Marketing Specialist,8082,2024-01-14,2,5,5,Yes,Bachelor,Yes,Gdansk
+164,EMP0164,Male,33,HR,HR Specialist,13370,2009-01-27,17,5,4,No,Bachelor,Yes,Kyiv
+165,EMP0165,Female,30,IT,Support,13432,2015-12-02,10,5,2,No,High School,No,Lviv
+166,EMP0166,Female,57,Finance,Financial Analyst,8411,2008-02-12,18,4,1,No,Master,Yes,Gdansk
+167,EMP0167,Female,37,Marketing,Marketing Specialist,14241,2006-07-21,20,5,5,No,High School,Yes,Gdansk
+168,EMP0168,Female,30,IT,Support,16962,2005-09-20,20,2,1,No,High School,Yes,Lviv
+169,EMP0169,Male,47,Sales,Sales Manager,14813,2015-12-30,10,2,4,No,High School,No,Kyiv
+170,EMP0170,Female,51,Operations,Coordinator,12109,2010-04-18,16,4,3,No,Master,No,Ternopil
+171,EMP0171,Male,36,Operations,Coordinator,8071,2006-11-29,19,5,3,No,Master,No,Lviv
+172,EMP0172,Female,56,Operations,Coordinator,16531,2015-11-29,10,3,3,Yes,High School,No,Gdansk
+173,EMP0173,Female,26,HR,HR Specialist,9174,2017-07-10,9,4,3,No,Bachelor,Yes,Ternopil
+174,EMP0174,Male,36,Marketing,Marketing Specialist,4331,2022-06-05,4,5,2,No,Bachelor,Yes,Gdansk
+175,EMP0175,Male,21,HR,HR Specialist,12516,2022-08-16,3,2,4,No,Master,Yes,Ternopil
+176,EMP0176,Male,57,HR,HR Specialist,7304,2006-07-04,20,5,1,No,Master,Yes,Kyiv
+177,EMP0177,Male,21,Finance,Financial Analyst,8388,2021-03-04,5,5,5,Yes,Master,No,Gdansk
+178,EMP0178,Female,38,Operations,Coordinator,6659,2021-11-14,4,1,3,No,High School,No,Ternopil
+179,EMP0179,Female,57,Operations,Coordinator,14549,2026-02-07,0,2,2,No,High School,No,Gdansk
+180,EMP0180,Male,32,Marketing,Marketing Specialist,5803,2024-01-06,2,4,3,No,Bachelor,No,Gdansk
+181,EMP0181,Female,58,IT,BI Developer,15343,2018-02-13,8,5,1,No,High School,No,Lviv
+182,EMP0182,Male,46,Sales,Sales Rep,14740,2012-02-26,14,5,3,Yes,High School,No,Ternopil
+183,EMP0183,Female,30,Marketing,Marketing Specialist,10954,2019-05-24,7,5,3,No,High School,No,Lviv
+184,EMP0184,Female,54,IT,Support,15030,2007-06-23,19,3,1,No,Bachelor,Yes,Lviv
+185,EMP0185,Female,28,Marketing,Marketing Specialist,14645,2021-02-13,5,2,5,No,Bachelor,No,Kyiv
+186,EMP0186,Female,57,Finance,Accountant,4445,2010-01-02,16,5,4,No,High School,Yes,Gdansk
+187,EMP0187,Male,23,HR,HR Specialist,10441,2019-10-08,6,3,1,No,Bachelor,Yes,Gdansk
+188,EMP0188,Male,47,Sales,Sales Manager,9635,2013-05-01,13,4,4,No,Master,Yes,Lviv
+189,EMP0189,Female,54,Operations,Coordinator,5586,2023-04-30,3,2,1,Yes,Master,No,Gdansk
+190,EMP0190,Female,43,Marketing,Marketing Specialist,6041,2019-03-27,7,3,2,Yes,Bachelor,No,Kyiv
+191,EMP0191,Male,49,IT,Data Analyst,13294,2024-06-08,2,1,2,Yes,Master,No,Lviv
+192,EMP0192,Female,35,Marketing,Marketing Specialist,16865,2025-05-19,1,5,3,No,High School,No,Lviv
+193,EMP0193,Female,40,HR,HR Specialist,8008,2010-04-11,16,1,5,No,High School,Yes,Gdansk
+194,EMP0194,Female,54,Marketing,Marketing Specialist,8722,2025-02-03,1,4,4,No,Master,No,Lviv
+195,EMP0195,Female,30,Marketing,Marketing Specialist,16701,2019-04-07,7,4,1,No,Master,No,Lviv
+196,EMP0196,Female,26,Finance,Accountant,10869,2018-04-18,8,3,1,No,High School,Yes,Kyiv
+197,EMP0197,Male,25,HR,HR Specialist,6582,2006-09-29,19,5,5,No,Master,Yes,Ternopil
+198,EMP0198,Male,51,HR,HR Specialist,7474,2020-04-24,6,5,2,No,Bachelor,No,Ternopil
+199,EMP0199,Female,40,Finance,Financial Analyst,7785,2008-09-04,17,3,5,No,Master,Yes,Gdansk
+200,EMP0200,Female,23,HR,HR Specialist,12716,2015-02-22,11,2,2,Yes,Master,No,Ternopil
+201,EMP0201,Female,57,IT,Data Analyst,17153,2016-04-05,10,2,4,No,High School,No,Ternopil
+202,EMP0202,Female,31,Finance,Financial Analyst,5793,2012-05-07,14,5,4,No,High School,Yes,Kyiv
+203,EMP0203,Male,35,Sales,Sales Rep,4613,2025-12-30,0,2,1,No,High School,No,Ternopil
+204,EMP0204,Male,55,Sales,Sales Manager,12538,2011-07-25,15,4,1,Yes,High School,No,Ternopil
+205,EMP0205,Male,54,Sales,Sales Manager,5939,2021-06-06,5,2,2,No,High School,No,Ternopil
+206,EMP0206,Female,50,HR,HR Specialist,12756,2024-01-20,2,2,2,No,High School,Yes,Kyiv
+207,EMP0207,Female,24,Sales,Sales Manager,13932,2014-01-20,12,1,2,Yes,Master,No,Ternopil
+208,EMP0208,Male,34,Marketing,Marketing Specialist,17723,2010-07-12,16,5,4,No,Bachelor,Yes,Ternopil
+209,EMP0209,Male,34,Marketing,Marketing Specialist,13117,2021-02-19,5,2,4,Yes,Master,Yes,Lviv
+210,EMP0210,Female,29,Marketing,Marketing Specialist,16451,2009-02-14,17,1,5,No,Bachelor,Yes,Gdansk
+211,EMP0211,Female,41,IT,Data Analyst,3985,2015-09-26,10,3,4,No,Bachelor,No,Gdansk
+212,EMP0212,Female,26,Finance,Accountant,16151,2007-08-30,18,5,3,No,High School,Yes,Kyiv
+213,EMP0213,Male,45,HR,HR Specialist,8688,2013-08-02,12,3,1,Yes,Bachelor,No,Gdansk
+214,EMP0214,Male,32,HR,HR Specialist,10561,2023-05-24,3,4,5,No,High School,No,Kyiv
+215,EMP0215,Male,59,Sales,Sales Rep,13298,2014-10-22,11,3,4,Yes,Master,No,Gdansk
+216,EMP0216,Male,45,Sales,Sales Rep,6277,2007-11-10,18,2,3,No,Master,No,Lviv
+217,EMP0217,Female,40,Sales,Sales Rep,11433,2013-03-13,13,1,3,No,Bachelor,No,Lviv
+218,EMP0218,Male,46,Finance,Accountant,8943,2022-02-25,4,5,4,No,Master,No,Gdansk
+219,EMP0219,Male,51,Operations,Coordinator,8647,2017-02-17,9,2,4,No,Master,No,Lviv
+220,EMP0220,Female,28,HR,HR Specialist,12738,2018-01-11,8,2,5,No,Bachelor,Yes,Gdansk
+221,EMP0221,Male,47,Operations,Coordinator,14526,2012-03-05,14,4,2,No,Bachelor,No,Lviv
+222,EMP0222,Female,59,Operations,Coordinator,11351,2014-06-25,12,5,4,No,High School,No,Kyiv
+223,EMP0223,Female,31,HR,HR Specialist,14100,2023-03-25,3,5,1,No,High School,No,Ternopil
+224,EMP0224,Female,35,Finance,Accountant,11866,2026-06-09,0,5,5,No,High School,Yes,Gdansk
+225,EMP0225,Male,43,HR,HR Specialist,3902,2011-08-20,14,4,1,No,Master,Yes,Kyiv
+226,EMP0226,Female,50,Operations,Coordinator,16349,2015-02-23,11,2,5,No,Master,No,Kyiv
+227,EMP0227,Female,23,Finance,Financial Analyst,16774,2016-06-27,10,1,1,No,High School,Yes,Lviv
+228,EMP0228,Male,42,Operations,Coordinator,12672,2010-05-05,16,4,4,No,Master,Yes,Lviv
+229,EMP0229,Male,49,Operations,Coordinator,13202,2014-07-18,12,4,4,Yes,High School,Yes,Lviv
+230,EMP0230,Male,44,HR,HR Specialist,8840,2008-06-11,18,2,4,Yes,Master,No,Ternopil
+231,EMP0231,Male,43,Marketing,Marketing Specialist,9266,2007-01-15,19,4,5,No,High School,No,Kyiv
+232,EMP0232,Male,40,Operations,Coordinator,5416,2016-06-01,10,2,3,No,High School,No,Gdansk
+233,EMP0233,Female,32,Marketing,Marketing Specialist,11473,2008-01-19,18,5,2,No,Bachelor,No,Ternopil
+234,EMP0234,Male,43,IT,Data Analyst,3657,2015-12-14,10,4,2,No,Master,No,Gdansk
+235,EMP0235,Female,52,Operations,Coordinator,6240,2012-08-03,13,1,5,Yes,Bachelor,No,Kyiv
+236,EMP0236,Male,50,HR,HR Specialist,12767,2009-03-08,17,4,5,No,Bachelor,Yes,Ternopil
+237,EMP0237,Female,55,Marketing,Marketing Specialist,7080,2009-07-12,17,4,1,No,Master,Yes,Gdansk
+238,EMP0238,Male,36,HR,HR Specialist,6938,2023-12-18,2,5,3,No,High School,No,Lviv
+239,EMP0239,Male,57,Marketing,Marketing Specialist,9247,2020-04-16,6,5,3,No,High School,Yes,Ternopil
+240,EMP0240,Female,53,Operations,Coordinator,14629,2016-10-11,9,1,2,No,Bachelor,No,Lviv
+241,EMP0241,Female,36,Operations,Coordinator,15975,2019-05-18,7,4,4,No,High School,No,Gdansk
+242,EMP0242,Male,46,Finance,Financial Analyst,11947,2023-09-09,2,3,3,No,Master,No,Kyiv
+243,EMP0243,Female,25,Operations,Coordinator,16536,2011-09-11,14,5,4,No,Master,Yes,Gdansk
+244,EMP0244,Male,57,HR,HR Specialist,17466,2017-02-09,9,4,3,Yes,Bachelor,Yes,Gdansk
+245,EMP0245,Female,21,Sales,Sales Rep,10509,2020-12-17,5,2,2,No,Bachelor,No,Kyiv
+246,EMP0246,Female,31,Operations,Coordinator,4348,2018-06-19,8,4,3,No,Master,Yes,Kyiv
+247,EMP0247,Male,58,Sales,Sales Rep,7205,2011-06-24,15,5,4,Yes,Bachelor,No,Kyiv
+248,EMP0248,Male,45,Finance,Accountant,4963,2011-06-27,15,1,1,No,Master,No,Lviv
+249,EMP0249,Male,25,Finance,Accountant,12191,2005-08-22,20,5,1,No,High School,Yes,Gdansk
+250,EMP0250,Female,60,HR,HR Specialist,14748,2006-05-18,20,4,2,Yes,Bachelor,Yes,Kyiv
+251,EMP0251,Female,29,Marketing,Marketing Specialist,7559,2014-12-25,11,3,1,No,High School,No,Kyiv
+252,EMP0252,Male,46,Operations,Coordinator,8342,2019-11-08,6,1,2,No,Master,Yes,Lviv
+253,EMP0253,Female,41,Finance,Accountant,5662,2010-07-27,16,4,5,No,Master,Yes,Gdansk
+254,EMP0254,Male,37,Sales,Sales Rep,7034,2008-06-29,18,1,1,No,High School,No,Gdansk
+255,EMP0255,Male,38,Finance,Financial Analyst,4869,2023-09-06,2,3,1,No,Bachelor,Yes,Ternopil
+256,EMP0256,Female,36,Finance,Accountant,4448,2016-08-08,9,2,1,No,Bachelor,No,Kyiv
+257,EMP0257,Male,21,HR,HR Specialist,6184,2023-07-24,3,4,3,No,High School,No,Lviv
+258,EMP0258,Male,42,HR,HR Specialist,16723,2018-06-01,8,4,3,No,Bachelor,No,Kyiv
+259,EMP0259,Male,52,Finance,Financial Analyst,17579,2010-01-30,16,5,2,No,Bachelor,No,Kyiv
+260,EMP0260,Male,23,Marketing,Marketing Specialist,17568,2018-11-13,7,1,2,Yes,Master,No,Gdansk
+261,EMP0261,Female,35,IT,Data Analyst,8772,2024-10-19,1,2,4,No,Master,Yes,Ternopil
+262,EMP0262,Male,46,Sales,Sales Rep,4629,2021-04-07,5,4,3,No,Master,Yes,Gdansk
+263,EMP0263,Female,60,Sales,Sales Manager,7474,2020-03-03,6,4,3,No,Master,Yes,Lviv
+264,EMP0264,Male,55,IT,Data Analyst,9175,2013-07-20,13,1,3,Yes,High School,No,Ternopil
+265,EMP0265,Female,52,Sales,Sales Rep,4481,2010-04-03,16,2,3,Yes,Bachelor,Yes,Gdansk
+266,EMP0266,Male,53,Operations,Coordinator,5687,2012-06-19,14,4,1,No,High School,Yes,Gdansk
+267,EMP0267,Female,41,Operations,Coordinator,16620,2019-03-04,7,4,3,No,Master,No,Lviv
+268,EMP0268,Male,30,Sales,Sales Rep,5231,2021-10-04,4,2,4,No,Master,No,Kyiv
+269,EMP0269,Female,50,Marketing,Marketing Specialist,7841,2019-12-12,6,1,1,No,High School,No,Kyiv
+270,EMP0270,Male,43,IT,BI Developer,9992,2022-06-14,4,5,1,No,Master,Yes,Kyiv
+271,EMP0271,Male,27,Finance,Financial Analyst,11070,2008-10-25,17,1,2,Yes,Bachelor,Yes,Lviv
+272,EMP0272,Male,58,IT,Data Analyst,13102,2014-01-23,12,3,1,Yes,Bachelor,Yes,Gdansk
+273,EMP0273,Male,50,IT,Data Analyst,4329,2016-05-30,10,2,5,No,High School,No,Gdansk
+274,EMP0274,Female,34,Sales,Sales Manager,6566,2013-05-05,13,3,3,No,Bachelor,Yes,Lviv
+275,EMP0275,Female,24,Operations,Coordinator,4937,2011-01-04,15,3,4,No,Master,Yes,Lviv
+276,EMP0276,Female,55,Operations,Coordinator,16303,2014-01-30,12,4,3,No,High School,No,Gdansk
+277,EMP0277,Male,22,HR,HR Specialist,16782,2026-02-16,0,3,1,No,High School,No,Lviv
+278,EMP0278,Male,38,IT,Data Analyst,12243,2018-08-29,7,1,2,No,Master,No,Lviv
+279,EMP0279,Female,58,IT,Data Analyst,3962,2008-02-22,18,3,5,No,Bachelor,Yes,Gdansk
+280,EMP0280,Male,26,Marketing,Marketing Specialist,4420,2020-11-21,5,2,5,No,Bachelor,No,Kyiv
+281,EMP0281,Male,41,HR,HR Specialist,4475,2022-02-06,4,1,2,No,High School,Yes,Kyiv
+282,EMP0282,Female,58,Marketing,Marketing Specialist,5155,2024-01-20,2,3,3,No,Bachelor,Yes,Gdansk
+283,EMP0283,Male,56,Operations,Coordinator,14863,2006-02-22,20,5,3,No,High School,Yes,Gdansk
+284,EMP0284,Male,57,HR,HR Specialist,9915,2022-05-01,4,5,1,No,High School,No,Lviv
+285,EMP0285,Female,25,Operations,Coordinator,7399,2011-05-22,15,3,3,No,High School,Yes,Ternopil
+286,EMP0286,Male,25,Finance,Accountant,9242,2018-04-15,8,3,1,Yes,Bachelor,No,Gdansk
+287,EMP0287,Female,45,Operations,Coordinator,9254,2020-12-31,5,5,4,Yes,Master,Yes,Lviv
+288,EMP0288,Male,41,Finance,Accountant,7778,2025-03-01,1,1,1,No,Bachelor,No,Lviv
+289,EMP0289,Female,59,Operations,Coordinator,13553,2009-06-16,17,4,1,No,High School,Yes,Gdansk
+290,EMP0290,Male,33,IT,Data Analyst,10205,2023-02-11,3,5,5,No,High School,No,Ternopil
+291,EMP0291,Female,30,IT,Data Analyst,4393,2025-01-09,1,3,1,No,Bachelor,No,Gdansk
+292,EMP0292,Male,39,IT,Data Analyst,4842,2026-04-15,0,4,1,No,Master,No,Gdansk
+293,EMP0293,Female,32,Operations,Coordinator,9578,2023-09-05,2,4,3,No,Master,Yes,Ternopil
+294,EMP0294,Female,57,Finance,Financial Analyst,4509,2018-04-07,8,2,1,Yes,High School,No,Gdansk
+295,EMP0295,Female,54,Marketing,Marketing Specialist,10358,2009-07-02,17,5,4,No,Bachelor,No,Ternopil
+296,EMP0296,Male,28,Sales,Sales Manager,15905,2024-11-14,1,4,2,No,Bachelor,Yes,Lviv
+297,EMP0297,Female,33,Sales,Sales Manager,16976,2023-08-15,2,2,5,No,Master,Yes,Kyiv
+298,EMP0298,Female,54,Finance,Financial Analyst,11006,2009-02-17,17,1,5,No,High School,No,Kyiv
+299,EMP0299,Male,27,Finance,Accountant,12719,2021-10-13,4,1,3,No,Master,No,Ternopil
+300,EMP0300,Female,23,Finance,Financial Analyst,6321,2007-09-26,18,3,4,No,High School,No,Kyiv
+301,EMP0301,Female,38,Finance,Financial Analyst,9602,2019-07-06,7,1,3,No,Master,No,Gdansk
+302,EMP0302,Female,49,Operations,Coordinator,16181,2019-05-24,7,3,3,No,High School,Yes,Lviv
+303,EMP0303,Female,24,Finance,Accountant,11942,2012-11-26,13,2,1,No,High School,No,Lviv
+304,EMP0304,Male,24,Marketing,Marketing Specialist,7587,2021-04-23,5,1,4,Yes,Master,Yes,Ternopil
+305,EMP0305,Male,22,HR,HR Specialist,7463,2010-01-11,16,3,4,No,Master,Yes,Gdansk
+306,EMP0306,Female,26,Marketing,Marketing Specialist,8170,2015-05-10,11,1,4,Yes,Bachelor,Yes,Lviv
+307,EMP0307,Female,53,Operations,Coordinator,3828,2020-03-15,6,1,4,No,High School,Yes,Kyiv
+308,EMP0308,Female,48,IT,BI Developer,9668,2007-02-28,19,3,4,No,Bachelor,No,Ternopil
+309,EMP0309,Male,53,Operations,Coordinator,14352,2008-06-11,18,3,5,No,High School,No,Ternopil
+310,EMP0310,Female,38,Operations,Coordinator,13995,2011-07-01,15,3,3,No,High School,No,Lviv
+311,EMP0311,Female,41,IT,Support,14653,2019-07-02,7,2,1,No,Master,No,Gdansk
+312,EMP0312,Male,42,Finance,Financial Analyst,15403,2024-10-04,1,2,5,No,High School,No,Ternopil
+313,EMP0313,Female,27,IT,Support,11213,2009-05-02,17,2,3,No,Bachelor,No,Kyiv
+314,EMP0314,Female,42,IT,BI Developer,9589,2019-02-24,7,3,5,No,Master,Yes,Gdansk
+315,EMP0315,Male,45,Sales,Sales Rep,12180,2011-04-25,15,3,4,Yes,Bachelor,Yes,Lviv
+316,EMP0316,Male,41,HR,HR Specialist,17629,2007-12-12,18,2,1,No,Master,Yes,Ternopil
+317,EMP0317,Female,34,Operations,Coordinator,15971,2025-12-10,0,2,5,No,Master,Yes,Lviv
+318,EMP0318,Female,48,Marketing,Marketing Specialist,11321,2005-12-27,20,4,1,Yes,High School,Yes,Ternopil
+319,EMP0319,Male,21,Sales,Sales Manager,13767,2010-04-27,16,2,2,No,Master,Yes,Kyiv
+320,EMP0320,Male,40,Finance,Financial Analyst,8264,2021-06-27,5,4,5,No,High School,No,Gdansk
+321,EMP0321,Female,33,Operations,Coordinator,6201,2015-11-24,10,4,1,No,Bachelor,Yes,Lviv
+322,EMP0322,Male,28,Operations,Coordinator,9506,2007-11-18,18,1,4,No,High School,Yes,Kyiv
+323,EMP0323,Male,28,Operations,Coordinator,10328,2006-07-24,20,4,4,Yes,High School,No,Gdansk
+324,EMP0324,Male,40,Operations,Coordinator,10395,2019-08-10,6,1,5,No,High School,Yes,Gdansk
+325,EMP0325,Male,52,Sales,Sales Rep,6754,2017-06-03,9,5,2,No,High School,Yes,Ternopil
+326,EMP0326,Male,56,Operations,Coordinator,11632,2017-05-10,9,2,4,No,Bachelor,Yes,Kyiv
+327,EMP0327,Female,30,Operations,Coordinator,4975,2022-10-10,3,5,1,Yes,Master,Yes,Gdansk
+328,EMP0328,Male,32,HR,HR Specialist,17821,2012-07-07,14,1,3,No,High School,No,Gdansk
+329,EMP0329,Male,29,Operations,Coordinator,14368,2023-07-07,3,2,3,No,Master,No,Kyiv
+330,EMP0330,Female,46,HR,HR Specialist,10979,2021-06-02,5,3,4,No,Master,Yes,Kyiv
+331,EMP0331,Male,47,IT,Support,13178,2025-05-09,1,4,5,No,Bachelor,No,Ternopil
+332,EMP0332,Female,28,Marketing,Marketing Specialist,10238,2021-11-25,4,4,1,Yes,Master,No,Kyiv
+333,EMP0333,Male,48,Operations,Coordinator,14341,2015-11-09,10,2,4,No,High School,No,Lviv
+334,EMP0334,Male,53,Marketing,Marketing Specialist,17407,2025-09-03,0,4,4,No,Bachelor,No,Ternopil
+335,EMP0335,Male,56,IT,BI Developer,14040,2018-07-06,8,4,4,No,Bachelor,No,Gdansk
+336,EMP0336,Female,41,Marketing,Marketing Specialist,5444,2023-11-17,2,4,1,Yes,Master,No,Kyiv
+337,EMP0337,Female,53,Marketing,Marketing Specialist,12713,2023-09-24,2,2,4,No,Master,Yes,Lviv
+338,EMP0338,Female,44,Finance,Financial Analyst,15229,2008-09-19,17,4,1,Yes,High School,Yes,Kyiv
+339,EMP0339,Female,27,HR,HR Specialist,4250,2006-03-07,20,2,4,No,High School,No,Kyiv
+340,EMP0340,Female,34,HR,HR Specialist,10988,2020-05-30,6,2,3,Yes,Master,Yes,Kyiv
+341,EMP0341,Male,52,Finance,Financial Analyst,3571,2007-11-18,18,5,1,No,Master,No,Lviv
+342,EMP0342,Female,59,Operations,Coordinator,13431,2022-06-07,4,3,5,No,Master,Yes,Ternopil
+343,EMP0343,Male,29,Finance,Financial Analyst,10262,2016-12-12,9,5,5,No,High School,No,Lviv
+344,EMP0344,Female,29,IT,Data Analyst,15139,2007-03-08,19,2,5,No,High School,No,Kyiv
+345,EMP0345,Female,55,HR,HR Specialist,8184,2007-10-15,18,4,1,No,Bachelor,Yes,Gdansk
+346,EMP0346,Female,31,IT,Data Analyst,8195,2025-04-18,1,3,2,Yes,High School,No,Lviv
+347,EMP0347,Male,60,Marketing,Marketing Specialist,17721,2014-12-13,11,5,2,No,Master,Yes,Ternopil
+348,EMP0348,Female,41,Operations,Coordinator,12546,2014-01-15,12,1,1,No,Bachelor,No,Lviv
+349,EMP0349,Male,33,Operations,Coordinator,8319,2007-10-28,18,4,2,Yes,Bachelor,Yes,Kyiv
+350,EMP0350,Female,29,Finance,Accountant,6136,2013-03-12,13,5,3,Yes,Master,No,Lviv
+351,EMP0351,Male,60,Sales,Sales Rep,17314,2015-09-30,10,3,4,No,High School,No,Kyiv
+352,EMP0352,Male,54,Operations,Coordinator,4617,2010-04-12,16,5,2,No,High School,No,Kyiv
+353,EMP0353,Female,42,HR,HR Specialist,9411,2019-08-26,6,3,2,No,High School,No,Kyiv
+354,EMP0354,Male,23,Sales,Sales Manager,14682,2012-03-31,14,3,4,Yes,Master,No,Ternopil
+355,EMP0355,Female,52,Sales,Sales Manager,4218,2009-11-15,16,3,2,No,High School,Yes,Kyiv
+356,EMP0356,Male,34,IT,Support,14482,2009-07-30,17,2,4,Yes,Bachelor,No,Kyiv
+357,EMP0357,Female,23,Operations,Coordinator,4933,2025-12-06,0,1,1,No,Master,Yes,Lviv
+358,EMP0358,Female,48,HR,HR Specialist,8683,2013-12-14,12,1,4,Yes,High School,Yes,Kyiv
+359,EMP0359,Male,39,Operations,Coordinator,16392,2024-01-28,2,3,5,Yes,Master,No,Gdansk
+360,EMP0360,Male,29,Finance,Accountant,15734,2011-05-14,15,4,5,No,High School,Yes,Ternopil
+361,EMP0361,Male,28,Operations,Coordinator,4184,2025-10-19,0,1,5,No,Master,Yes,Ternopil
+362,EMP0362,Female,53,IT,Support,5833,2015-04-15,11,2,2,No,High School,No,Lviv
+363,EMP0363,Female,56,Sales,Sales Rep,4698,2008-07-06,18,3,1,No,Bachelor,Yes,Gdansk
+364,EMP0364,Male,27,HR,HR Specialist,8171,2021-08-21,4,5,1,No,Master,No,Gdansk
+365,EMP0365,Female,41,HR,HR Specialist,10517,2008-05-16,18,2,1,No,Bachelor,Yes,Gdansk
+366,EMP0366,Female,51,HR,HR Specialist,11083,2021-08-17,4,4,3,No,Master,Yes,Lviv
+367,EMP0367,Male,37,Operations,Coordinator,15518,2018-05-21,8,1,1,Yes,High School,Yes,Gdansk
+368,EMP0368,Female,55,Marketing,Marketing Specialist,12342,2024-10-20,1,4,2,No,Master,Yes,Ternopil
+369,EMP0369,Male,46,IT,BI Developer,9461,2009-11-14,16,5,1,No,High School,Yes,Lviv
+370,EMP0370,Male,51,Finance,Accountant,9378,2020-10-14,5,1,2,No,Bachelor,Yes,Ternopil
+371,EMP0371,Male,54,HR,HR Specialist,16467,2024-08-21,1,3,4,No,Master,Yes,Kyiv
+372,EMP0372,Female,37,Operations,Coordinator,12980,2022-08-04,3,5,5,No,Master,No,Ternopil
+373,EMP0373,Female,35,Marketing,Marketing Specialist,11960,2010-03-27,16,4,3,No,Master,No,Kyiv
+374,EMP0374,Male,25,Marketing,Marketing Specialist,11930,2012-05-09,14,3,2,No,Bachelor,Yes,Ternopil
+375,EMP0375,Female,28,Marketing,Marketing Specialist,11389,2018-12-31,7,4,4,No,High School,Yes,Gdansk
+376,EMP0376,Male,29,Sales,Sales Rep,13814,2025-05-25,1,5,1,No,Bachelor,Yes,Lviv
+377,EMP0377,Male,39,HR,HR Specialist,4904,2010-01-07,16,2,4,No,Master,No,Lviv
+378,EMP0378,Male,60,IT,BI Developer,14307,2007-05-22,19,5,3,No,High School,No,Gdansk
+379,EMP0379,Female,29,Marketing,Marketing Specialist,5278,2019-01-19,7,1,2,No,High School,No,Lviv
+380,EMP0380,Male,55,Marketing,Marketing Specialist,11746,2020-11-29,5,1,1,No,High School,Yes,Kyiv
+381,EMP0381,Female,23,Operations,Coordinator,14930,2009-12-30,16,5,4,No,Master,No,Ternopil
+382,EMP0382,Female,51,Marketing,Marketing Specialist,16047,2013-05-25,13,2,1,No,High School,No,Ternopil
+383,EMP0383,Male,54,IT,Data Analyst,3617,2025-10-07,0,4,2,No,Master,No,Kyiv
+384,EMP0384,Female,37,IT,BI Developer,17507,2005-10-08,20,5,4,No,Master,No,Gdansk
+385,EMP0385,Female,32,IT,BI Developer,9565,2008-10-21,17,5,5,No,Master,No,Ternopil
+386,EMP0386,Male,35,Operations,Coordinator,10817,2021-08-27,4,2,1,No,High School,No,Ternopil
+387,EMP0387,Male,26,Marketing,Marketing Specialist,16988,2021-01-12,5,2,4,No,Master,Yes,Kyiv
+388,EMP0388,Male,45,HR,HR Specialist,10064,2015-06-22,11,5,5,No,High School,Yes,Lviv
+389,EMP0389,Male,54,Operations,Coordinator,8185,2012-07-27,14,2,1,No,High School,Yes,Lviv
+390,EMP0390,Male,31,Operations,Coordinator,4922,2015-04-01,11,3,4,No,High School,No,Gdansk
+391,EMP0391,Male,26,Marketing,Marketing Specialist,12504,2010-07-26,16,3,5,No,Master,No,Ternopil
+392,EMP0392,Female,57,IT,Support,3576,2019-12-11,6,3,2,No,High School,Yes,Kyiv
+393,EMP0393,Female,55,Marketing,Marketing Specialist,16822,2016-06-02,10,5,3,No,Master,No,Lviv
+394,EMP0394,Male,51,HR,HR Specialist,5404,2011-10-06,14,3,1,No,High School,Yes,Lviv
+395,EMP0395,Male,37,HR,HR Specialist,7567,2014-11-10,11,3,1,No,High School,No,Kyiv
+396,EMP0396,Female,34,Marketing,Marketing Specialist,12899,2011-02-23,15,3,2,No,Master,Yes,Lviv
+397,EMP0397,Male,33,Operations,Coordinator,17179,2018-04-17,8,2,5,No,Bachelor,Yes,Kyiv
+398,EMP0398,Male,51,Sales,Sales Manager,9581,2007-07-31,19,5,3,No,High School,No,Gdansk
+399,EMP0399,Male,57,IT,Support,5601,2018-01-09,8,1,5,No,Master,Yes,Ternopil
+400,EMP0400,Female,41,Finance,Accountant,14792,2012-06-01,14,1,1,No,Master,Yes,Ternopil
+401,EMP0401,Female,36,HR,HR Specialist,7913,2020-10-23,5,4,5,No,Master,Yes,Gdansk
+402,EMP0402,Female,44,Finance,Accountant,17497,2012-08-08,13,4,3,No,Bachelor,Yes,Lviv
+403,EMP0403,Female,45,Sales,Sales Manager,6712,2018-10-20,7,2,2,No,Bachelor,Yes,Gdansk
+404,EMP0404,Female,52,Finance,Accountant,8415,2005-11-12,20,3,5,No,Bachelor,No,Kyiv
+405,EMP0405,Female,51,Operations,Coordinator,17245,2025-04-10,1,1,4,No,Master,No,Ternopil
+406,EMP0406,Female,28,Marketing,Marketing Specialist,9252,2015-07-22,11,5,2,No,High School,Yes,Ternopil
+407,EMP0407,Female,26,HR,HR Specialist,9743,2009-11-26,16,5,3,No,High School,Yes,Lviv
+408,EMP0408,Female,25,Operations,Coordinator,4796,2012-09-12,13,2,3,No,Master,No,Ternopil
+409,EMP0409,Female,38,Operations,Coordinator,10789,2006-09-07,19,3,5,No,Master,No,Lviv
+410,EMP0410,Female,26,IT,Data Analyst,6950,2022-04-01,4,2,4,Yes,Bachelor,Yes,Gdansk
+411,EMP0411,Male,27,Marketing,Marketing Specialist,7800,2026-01-07,0,5,2,Yes,High School,No,Ternopil
+412,EMP0412,Male,29,IT,Data Analyst,12130,2016-12-17,9,2,1,Yes,High School,No,Ternopil
+413,EMP0413,Female,29,Finance,Financial Analyst,14929,2009-03-16,17,5,2,No,High School,No,Gdansk
+414,EMP0414,Male,26,Marketing,Marketing Specialist,10739,2014-11-28,11,3,3,No,Master,Yes,Ternopil
+415,EMP0415,Female,39,Sales,Sales Rep,11187,2010-05-25,16,5,1,No,Master,No,Kyiv
+416,EMP0416,Male,56,Finance,Financial Analyst,9621,2007-04-07,19,2,4,No,Master,No,Lviv
+417,EMP0417,Female,35,IT,Support,7808,2006-01-16,20,1,4,No,High School,No,Ternopil
+418,EMP0418,Male,32,Operations,Coordinator,5738,2013-04-27,13,3,1,No,High School,No,Ternopil
+419,EMP0419,Male,30,Operations,Coordinator,4313,2020-02-17,6,5,1,No,Bachelor,No,Ternopil
+420,EMP0420,Male,26,IT,Support,5968,2012-07-28,14,1,4,No,Master,No,Ternopil
+421,EMP0421,Male,42,Finance,Financial Analyst,4814,2011-08-11,14,2,1,No,Master,Yes,Gdansk
+422,EMP0422,Male,28,IT,Data Analyst,16085,2018-01-17,8,2,4,No,Bachelor,Yes,Lviv
+423,EMP0423,Male,51,Finance,Accountant,9875,2009-08-27,16,3,3,No,High School,Yes,Kyiv
+424,EMP0424,Male,44,HR,HR Specialist,4353,2006-03-04,20,2,1,No,High School,No,Ternopil
+425,EMP0425,Male,46,Sales,Sales Rep,16429,2017-10-05,8,2,1,Yes,High School,No,Lviv
+426,EMP0426,Female,26,HR,HR Specialist,14738,2019-05-12,7,5,3,Yes,Bachelor,No,Lviv
+427,EMP0427,Male,41,Operations,Coordinator,12648,2021-11-23,4,3,4,No,Bachelor,No,Ternopil
+428,EMP0428,Female,49,Operations,Coordinator,12659,2018-07-11,8,3,5,No,Bachelor,Yes,Ternopil
+429,EMP0429,Male,25,HR,HR Specialist,12202,2017-09-28,8,2,4,No,Master,No,Gdansk
+430,EMP0430,Female,60,Sales,Sales Manager,7412,2021-07-21,5,3,1,No,Master,Yes,Gdansk
+431,EMP0431,Female,47,Marketing,Marketing Specialist,14000,2007-03-12,19,3,1,Yes,High School,Yes,Kyiv
+432,EMP0432,Male,52,IT,Data Analyst,6639,2025-04-17,1,1,1,No,High School,No,Gdansk
+433,EMP0433,Male,59,Marketing,Marketing Specialist,15261,2025-01-23,1,1,1,No,High School,No,Kyiv
+434,EMP0434,Female,44,Finance,Accountant,16512,2014-10-20,11,1,5,No,High School,Yes,Kyiv
+435,EMP0435,Male,27,HR,HR Specialist,15381,2019-11-08,6,2,5,No,Bachelor,Yes,Lviv
+436,EMP0436,Female,27,Marketing,Marketing Specialist,16054,2008-10-21,17,5,3,No,High School,No,Kyiv
+437,EMP0437,Female,31,IT,Data Analyst,12247,2009-01-09,17,5,4,No,Master,No,Ternopil
+438,EMP0438,Male,57,Finance,Financial Analyst,12439,2015-09-24,10,2,4,No,High School,No,Ternopil
+439,EMP0439,Male,39,Finance,Financial Analyst,13260,2014-08-01,12,1,5,No,Master,Yes,Ternopil
+440,EMP0440,Female,56,IT,Data Analyst,11876,2016-07-20,10,5,5,No,Bachelor,Yes,Kyiv
+441,EMP0441,Female,44,Finance,Financial Analyst,13038,2022-05-21,4,2,2,No,Master,Yes,Gdansk
+442,EMP0442,Female,32,Marketing,Marketing Specialist,11499,2024-02-14,2,5,1,No,High School,No,Kyiv
+443,EMP0443,Female,43,Operations,Coordinator,17914,2024-07-01,2,4,4,Yes,Bachelor,Yes,Gdansk
+444,EMP0444,Female,55,Sales,Sales Manager,12755,2010-07-12,16,2,3,No,High School,Yes,Lviv
+445,EMP0445,Male,35,Sales,Sales Manager,10576,2011-10-02,14,3,4,No,Bachelor,No,Kyiv
+446,EMP0446,Female,26,Finance,Accountant,10029,2009-01-10,17,5,4,No,Bachelor,No,Lviv
+447,EMP0447,Male,56,Finance,Financial Analyst,13592,2005-10-15,20,5,2,No,Bachelor,No,Gdansk
+448,EMP0448,Female,48,HR,HR Specialist,9484,2022-08-21,3,3,2,No,Master,Yes,Ternopil
+449,EMP0449,Male,49,IT,BI Developer,4235,2006-12-20,19,2,2,No,Bachelor,Yes,Kyiv
+450,EMP0450,Male,39,Operations,Coordinator,3725,2018-09-17,7,3,1,No,Master,No,Kyiv
+451,EMP0451,Male,55,HR,HR Specialist,12073,2009-04-16,17,3,5,No,High School,Yes,Kyiv
+452,EMP0452,Male,39,Finance,Accountant,6788,2018-05-05,8,5,3,Yes,Master,Yes,Kyiv
+453,EMP0453,Male,39,Finance,Financial Analyst,17711,2015-06-07,11,4,2,No,High School,Yes,Ternopil
+454,EMP0454,Female,56,Finance,Accountant,15173,2021-04-20,5,1,1,No,High School,No,Ternopil
+455,EMP0455,Female,43,Finance,Financial Analyst,9322,2021-07-21,5,3,2,No,Master,Yes,Ternopil
+456,EMP0456,Male,30,Finance,Accountant,9099,2009-03-12,17,4,2,Yes,High School,No,Lviv
+457,EMP0457,Female,40,Finance,Accountant,13418,2008-05-16,18,3,4,No,Bachelor,Yes,Lviv
+458,EMP0458,Male,48,Marketing,Marketing Specialist,16116,2022-02-22,4,2,5,No,Master,Yes,Kyiv
+459,EMP0459,Female,47,IT,BI Developer,10237,2022-07-15,4,3,4,No,Bachelor,Yes,Kyiv
+460,EMP0460,Female,59,IT,Data Analyst,12790,2025-09-19,0,5,2,No,Bachelor,Yes,Kyiv
+461,EMP0461,Female,44,HR,HR Specialist,6514,2011-05-26,15,4,4,No,Bachelor,Yes,Lviv
+462,EMP0462,Female,47,IT,Data Analyst,7146,2013-07-25,13,2,2,Yes,Bachelor,No,Gdansk
+463,EMP0463,Female,46,Operations,Coordinator,16217,2012-03-28,14,1,5,No,High School,No,Gdansk
+464,EMP0464,Female,50,Marketing,Marketing Specialist,17049,2010-06-08,16,1,2,No,High School,No,Kyiv
+465,EMP0465,Male,33,Marketing,Marketing Specialist,8270,2009-09-14,16,4,4,No,Master,No,Lviv
+466,EMP0466,Male,50,Finance,Financial Analyst,17096,2007-07-07,19,4,1,No,Bachelor,Yes,Lviv
+467,EMP0467,Male,32,Finance,Financial Analyst,10933,2015-12-14,10,5,2,No,Bachelor,No,Ternopil
+468,EMP0468,Male,49,Operations,Coordinator,13888,2023-06-14,3,3,1,No,High School,No,Lviv
+469,EMP0469,Female,57,Finance,Financial Analyst,17775,2025-05-03,1,2,2,No,Bachelor,Yes,Gdansk
+470,EMP0470,Male,28,HR,HR Specialist,5655,2012-03-07,14,2,1,No,Master,Yes,Gdansk
+471,EMP0471,Female,36,Finance,Financial Analyst,7053,2009-07-31,17,5,4,No,Master,No,Kyiv
+472,EMP0472,Female,60,Marketing,Marketing Specialist,13799,2018-10-24,7,5,2,Yes,Bachelor,Yes,Kyiv
+473,EMP0473,Male,57,Operations,Coordinator,17230,2025-05-16,1,5,3,No,Bachelor,Yes,Kyiv
+474,EMP0474,Female,60,Finance,Accountant,14328,2020-08-20,5,5,5,No,Bachelor,No,Ternopil
+475,EMP0475,Female,45,Sales,Sales Rep,16939,2017-02-16,9,1,4,No,Bachelor,No,Gdansk
+476,EMP0476,Female,54,IT,Data Analyst,6938,2018-02-13,8,2,5,Yes,Bachelor,Yes,Gdansk
+477,EMP0477,Female,37,Operations,Coordinator,12108,2012-09-24,13,5,5,No,Bachelor,No,Gdansk
+478,EMP0478,Female,33,Finance,Accountant,3525,2007-04-06,19,1,1,No,High School,Yes,Lviv
+479,EMP0479,Female,43,Marketing,Marketing Specialist,12681,2013-07-09,13,2,1,No,High School,No,Ternopil
+480,EMP0480,Female,21,Sales,Sales Manager,5365,2016-11-14,9,3,3,No,High School,Yes,Lviv
+481,EMP0481,Female,51,IT,BI Developer,16562,2015-08-22,10,1,2,No,Bachelor,No,Ternopil
+482,EMP0482,Female,57,Finance,Financial Analyst,15377,2024-11-05,1,3,5,No,Bachelor,Yes,Ternopil
+483,EMP0483,Male,42,HR,HR Specialist,9647,2022-03-09,4,5,2,No,High School,No,Lviv
+484,EMP0484,Female,23,Marketing,Marketing Specialist,7948,2016-08-04,9,4,1,No,Bachelor,No,Gdansk
+485,EMP0485,Male,28,HR,HR Specialist,9631,2010-03-01,16,1,2,Yes,Master,Yes,Gdansk
+486,EMP0486,Female,54,Marketing,Marketing Specialist,8584,2020-02-07,6,3,2,Yes,High School,Yes,Lviv
+487,EMP0487,Male,21,Operations,Coordinator,8595,2012-01-16,14,1,5,Yes,Master,No,Kyiv
+488,EMP0488,Female,34,Sales,Sales Manager,8757,2025-10-07,0,2,2,No,Master,No,Gdansk
+489,EMP0489,Male,38,Operations,Coordinator,5375,2018-05-16,8,1,5,No,High School,Yes,Lviv
+490,EMP0490,Female,30,Marketing,Marketing Specialist,15040,2009-02-20,17,3,5,No,Bachelor,Yes,Ternopil
+491,EMP0491,Male,29,Marketing,Marketing Specialist,3975,2008-12-18,17,4,1,Yes,Master,Yes,Kyiv
+492,EMP0492,Female,60,Finance,Financial Analyst,9326,2020-08-04,5,3,3,No,High School,Yes,Gdansk
+493,EMP0493,Female,27,Marketing,Marketing Specialist,10964,2023-08-07,2,3,4,No,Bachelor,Yes,Lviv
+494,EMP0494,Male,42,Marketing,Marketing Specialist,16423,2015-01-13,11,3,4,No,Bachelor,Yes,Gdansk
+495,EMP0495,Male,39,Sales,Sales Manager,16081,2010-12-09,15,3,5,No,Bachelor,Yes,Gdansk
+496,EMP0496,Male,40,Operations,Coordinator,12228,2015-10-21,10,4,4,No,Master,Yes,Lviv
+497,EMP0497,Male,42,Marketing,Marketing Specialist,6911,2011-01-18,15,5,4,No,High School,No,Lviv
+498,EMP0498,Female,28,IT,Support,13202,2023-07-31,2,5,4,No,High School,Yes,Gdansk
+499,EMP0499,Male,59,IT,BI Developer,16137,2014-06-27,12,4,3,No,High School,Yes,Kyiv
+500,EMP0500,Male,30,IT,Data Analyst,14327,2007-09-12,18,2,4,No,Master,No,Gdansk
+501,EMP0501,Female,48,IT,Data Analyst,15260,2016-02-29,10,3,1,No,Bachelor,No,Lviv
+502,EMP0502,Male,21,HR,HR Specialist,15023,2014-10-24,11,5,3,Yes,Master,Yes,Lviv
+503,EMP0503,Female,46,Finance,Financial Analyst,9751,2006-02-22,20,4,5,No,High School,Yes,Gdansk
+504,EMP0504,Female,47,IT,Data Analyst,6027,2009-01-18,17,3,2,No,Bachelor,Yes,Kyiv
+505,EMP0505,Female,29,IT,Support,4887,2010-08-31,15,2,4,No,High School,No,Lviv
+506,EMP0506,Female,43,Finance,Financial Analyst,7198,2008-12-15,17,2,4,No,Bachelor,No,Lviv
+507,EMP0507,Female,23,Operations,Coordinator,4120,2012-10-26,13,5,4,No,Bachelor,No,Kyiv
+508,EMP0508,Female,54,IT,Support,4781,2010-03-12,16,5,5,Yes,Bachelor,No,Kyiv
+509,EMP0509,Female,55,Operations,Coordinator,16255,2007-07-07,19,1,4,No,High School,No,Ternopil
+510,EMP0510,Male,23,Finance,Financial Analyst,14887,2017-03-05,9,5,3,No,Master,Yes,Gdansk
+511,EMP0511,Female,60,Marketing,Marketing Specialist,3947,2008-07-07,18,3,4,Yes,Bachelor,Yes,Ternopil
+512,EMP0512,Female,37,HR,HR Specialist,3732,2007-03-13,19,1,5,No,High School,Yes,Gdansk
+513,EMP0513,Male,52,HR,HR Specialist,6462,2017-08-07,8,5,1,No,Bachelor,Yes,Lviv
+514,EMP0514,Female,31,Finance,Financial Analyst,6954,2014-04-02,12,5,3,Yes,High School,No,Kyiv
+515,EMP0515,Female,40,Sales,Sales Rep,11303,2012-01-10,14,5,2,No,High School,No,Gdansk
+516,EMP0516,Male,39,HR,HR Specialist,16563,2009-12-23,16,4,4,No,High School,Yes,Kyiv
+517,EMP0517,Female,42,Marketing,Marketing Specialist,7929,2012-09-23,13,3,1,No,High School,No,Gdansk
+518,EMP0518,Female,32,Operations,Coordinator,8632,2008-04-25,18,5,1,Yes,Bachelor,Yes,Gdansk
+519,EMP0519,Male,39,Sales,Sales Rep,7627,2012-02-04,14,2,1,Yes,High School,Yes,Kyiv
+520,EMP0520,Male,28,Marketing,Marketing Specialist,4915,2006-09-11,19,5,2,No,High School,Yes,Kyiv
+521,EMP0521,Female,25,Operations,Coordinator,13965,2018-03-03,8,4,3,No,High School,No,Ternopil
+522,EMP0522,Female,45,IT,Data Analyst,8950,2018-06-30,8,1,3,No,Bachelor,No,Kyiv
+523,EMP0523,Male,52,Finance,Accountant,5276,2007-01-14,19,2,5,No,Bachelor,Yes,Gdansk
+524,EMP0524,Male,25,Operations,Coordinator,12860,2023-07-13,3,3,4,Yes,Master,Yes,Kyiv
+525,EMP0525,Female,46,Sales,Sales Manager,12914,2018-05-15,8,1,5,No,Master,No,Gdansk
+526,EMP0526,Male,45,Operations,Coordinator,14792,2009-04-09,17,4,1,No,High School,No,Ternopil
+527,EMP0527,Male,44,Operations,Coordinator,12259,2014-07-04,12,3,1,No,Master,Yes,Lviv
+528,EMP0528,Male,40,Marketing,Marketing Specialist,14901,2013-08-28,12,4,1,No,Master,Yes,Gdansk
+529,EMP0529,Male,22,Operations,Coordinator,15292,2022-07-12,4,5,2,No,Master,Yes,Ternopil
+530,EMP0530,Female,24,Finance,Financial Analyst,9033,2026-07-11,0,1,4,Yes,Bachelor,No,Lviv
+531,EMP0531,Male,52,Operations,Coordinator,14212,2024-07-11,2,1,4,No,Bachelor,Yes,Lviv
+532,EMP0532,Female,27,Sales,Sales Rep,10974,2006-07-09,20,5,2,No,Bachelor,Yes,Kyiv
+533,EMP0533,Female,42,Finance,Accountant,16795,2024-04-17,2,4,3,Yes,High School,Yes,Ternopil
+534,EMP0534,Female,25,IT,Data Analyst,5478,2008-05-06,18,3,2,No,Bachelor,No,Lviv
+535,EMP0535,Male,27,Finance,Accountant,16460,2008-07-13,18,5,4,No,Bachelor,No,Kyiv
+536,EMP0536,Female,47,Sales,Sales Rep,14862,2021-06-15,5,4,2,No,Bachelor,No,Gdansk
+537,EMP0537,Male,59,Finance,Accountant,6449,2020-09-21,5,4,5,Yes,High School,No,Ternopil
+538,EMP0538,Male,28,Finance,Accountant,12186,2009-04-04,17,1,5,No,High School,Yes,Gdansk
+539,EMP0539,Male,28,Operations,Coordinator,16551,2018-07-04,8,2,4,No,Bachelor,Yes,Kyiv
+540,EMP0540,Female,37,Sales,Sales Manager,8977,2017-04-15,9,5,4,Yes,Bachelor,Yes,Lviv
+541,EMP0541,Male,25,IT,Data Analyst,7355,2010-11-12,15,4,5,No,Master,No,Lviv
+542,EMP0542,Female,35,Operations,Coordinator,5106,2019-06-05,7,2,4,No,Master,Yes,Kyiv
+543,EMP0543,Male,34,Finance,Financial Analyst,13484,2024-12-18,1,4,2,No,Master,Yes,Gdansk
+544,EMP0544,Female,33,Operations,Coordinator,9003,2006-02-01,20,2,1,No,Bachelor,No,Lviv
+545,EMP0545,Male,42,Sales,Sales Manager,7102,2011-12-31,14,3,5,No,High School,Yes,Lviv
+546,EMP0546,Male,58,Sales,Sales Manager,11257,2009-11-25,16,4,3,Yes,High School,No,Lviv
+547,EMP0547,Male,58,IT,BI Developer,5940,2012-10-09,13,5,1,No,Bachelor,Yes,Gdansk
+548,EMP0548,Female,51,Operations,Coordinator,16766,2012-11-03,13,1,4,No,Bachelor,Yes,Kyiv
+549,EMP0549,Female,39,Operations,Coordinator,7416,2020-05-24,6,1,1,No,High School,No,Lviv
+550,EMP0550,Male,50,Operations,Coordinator,11098,2007-10-09,18,2,4,No,Master,No,Kyiv
+551,EMP0551,Female,54,Operations,Coordinator,4035,2013-08-13,12,3,4,No,High School,Yes,Kyiv
+552,EMP0552,Female,24,Marketing,Marketing Specialist,5318,2024-11-08,1,4,3,No,High School,Yes,Ternopil
+553,EMP0553,Male,56,HR,HR Specialist,15121,2005-10-21,20,2,2,No,Bachelor,Yes,Gdansk
+554,EMP0554,Female,38,Operations,Coordinator,11750,2019-02-17,7,4,3,Yes,Bachelor,No,Ternopil
+555,EMP0555,Male,51,Finance,Financial Analyst,15129,2009-11-06,16,5,5,No,Master,No,Kyiv
+556,EMP0556,Female,32,IT,BI Developer,8224,2024-06-18,2,1,1,No,Master,Yes,Lviv
+557,EMP0557,Male,39,Finance,Accountant,10324,2019-11-07,6,5,2,No,Master,No,Gdansk
+558,EMP0558,Male,22,Operations,Coordinator,17783,2017-04-26,9,2,5,No,Master,No,Ternopil
+559,EMP0559,Male,40,Finance,Financial Analyst,6313,2012-02-28,14,3,2,No,Master,No,Kyiv
+560,EMP0560,Male,60,IT,BI Developer,6134,2016-12-10,9,5,3,No,Bachelor,Yes,Lviv
+561,EMP0561,Male,49,IT,Data Analyst,7766,2025-02-17,1,3,2,No,High School,Yes,Ternopil
+562,EMP0562,Male,55,HR,HR Specialist,8440,2014-12-15,11,1,1,No,Master,Yes,Gdansk
+563,EMP0563,Female,39,HR,HR Specialist,11264,2025-10-23,0,3,5,No,High School,No,Ternopil
+564,EMP0564,Male,56,Operations,Coordinator,5414,2011-07-13,15,3,1,No,High School,Yes,Gdansk
+565,EMP0565,Male,58,HR,HR Specialist,12125,2016-07-03,10,2,3,No,Bachelor,Yes,Gdansk
+566,EMP0566,Male,52,Operations,Coordinator,8706,2010-01-13,16,5,5,No,Bachelor,No,Gdansk
+567,EMP0567,Female,44,IT,Support,3699,2013-01-24,13,3,3,No,Master,No,Kyiv
+568,EMP0568,Female,39,IT,Support,6183,2012-01-02,14,4,4,No,High School,Yes,Lviv
+569,EMP0569,Female,25,IT,BI Developer,13177,2010-11-07,15,4,1,Yes,Master,No,Gdansk
+570,EMP0570,Male,33,IT,Support,6547,2011-08-04,14,4,3,No,Master,Yes,Ternopil
+571,EMP0571,Female,35,Marketing,Marketing Specialist,3939,2010-10-20,15,1,2,No,Master,No,Kyiv
+572,EMP0572,Female,36,Operations,Coordinator,3966,2013-05-02,13,1,3,No,Bachelor,No,Gdansk
+573,EMP0573,Female,28,Marketing,Marketing Specialist,9614,2017-09-13,8,5,5,Yes,Master,Yes,Kyiv
+574,EMP0574,Male,43,IT,BI Developer,6175,2011-08-13,14,1,3,No,Master,No,Kyiv
+575,EMP0575,Male,53,HR,HR Specialist,6675,2009-09-09,16,2,1,No,Bachelor,No,Ternopil
+576,EMP0576,Female,27,Operations,Coordinator,12255,2017-08-15,8,5,3,No,Bachelor,Yes,Ternopil
+577,EMP0577,Male,27,HR,HR Specialist,7069,2013-02-08,13,2,5,No,Bachelor,Yes,Gdansk
+578,EMP0578,Male,51,Finance,Accountant,9205,2023-05-24,3,3,3,No,Master,No,Lviv
+579,EMP0579,Male,29,Operations,Coordinator,17538,2026-05-30,0,2,2,No,Bachelor,Yes,Lviv
+580,EMP0580,Male,51,Sales,Sales Manager,15908,2023-06-21,3,4,1,No,Bachelor,Yes,Kyiv
+581,EMP0581,Male,40,Finance,Accountant,14437,2018-07-09,8,1,1,Yes,High School,Yes,Lviv
+582,EMP0582,Male,30,IT,Support,17358,2015-07-18,11,3,5,No,Master,Yes,Lviv
+583,EMP0583,Male,54,Marketing,Marketing Specialist,7055,2022-10-07,3,2,3,No,High School,Yes,Kyiv
+584,EMP0584,Male,49,IT,Support,14535,2011-01-27,15,1,2,No,Master,No,Lviv
+585,EMP0585,Female,28,Marketing,Marketing Specialist,11133,2013-06-05,13,1,5,No,Master,No,Ternopil
+586,EMP0586,Female,28,Marketing,Marketing Specialist,9804,2024-02-13,2,3,4,No,High School,No,Gdansk
+587,EMP0587,Female,33,IT,Support,17537,2013-03-06,13,1,4,No,Bachelor,Yes,Gdansk
+588,EMP0588,Male,28,Operations,Coordinator,5848,2013-12-20,12,4,4,No,Bachelor,Yes,Kyiv
+589,EMP0589,Female,28,HR,HR Specialist,7315,2016-04-20,10,4,4,No,High School,No,Gdansk
+590,EMP0590,Female,53,HR,HR Specialist,8069,2007-01-08,19,2,4,Yes,Bachelor,No,Gdansk
+591,EMP0591,Male,27,Finance,Accountant,15588,2006-05-27,20,1,1,No,High School,Yes,Lviv
+592,EMP0592,Male,25,Finance,Financial Analyst,14331,2022-02-25,4,5,4,No,Bachelor,No,Gdansk
+593,EMP0593,Male,23,Finance,Financial Analyst,10551,2009-02-08,17,1,4,No,Master,No,Gdansk
+594,EMP0594,Female,31,Finance,Accountant,11552,2025-04-30,1,4,2,No,High School,No,Gdansk
+595,EMP0595,Female,51,Sales,Sales Manager,12711,2008-08-17,17,2,5,Yes,Master,No,Gdansk
+596,EMP0596,Female,39,Marketing,Marketing Specialist,8750,2006-08-22,19,1,1,No,Bachelor,Yes,Ternopil
+597,EMP0597,Female,27,HR,HR Specialist,10514,2006-02-10,20,3,3,No,Master,Yes,Lviv
+598,EMP0598,Male,25,IT,Data Analyst,17736,2006-02-25,20,3,1,No,Bachelor,Yes,Ternopil
+599,EMP0599,Female,38,Sales,Sales Manager,3834,2012-10-15,13,4,5,Yes,Master,No,Gdansk
+600,EMP0600,Male,42,HR,HR Specialist,11638,2011-06-12,15,5,3,No,High School,No,Ternopil
+601,EMP0601,Male,55,Finance,Accountant,7007,2010-09-11,15,3,3,Yes,Master,No,Lviv
+602,EMP0602,Female,38,Marketing,Marketing Specialist,4602,2008-06-15,18,5,5,No,Master,Yes,Ternopil
+603,EMP0603,Female,55,Sales,Sales Manager,8633,2010-03-02,16,2,4,No,Master,No,Lviv
+604,EMP0604,Male,50,Sales,Sales Rep,7889,2007-11-21,18,5,5,No,High School,Yes,Lviv
+605,EMP0605,Male,40,HR,HR Specialist,17330,2022-03-29,4,4,4,No,Bachelor,Yes,Gdansk
+606,EMP0606,Female,59,HR,HR Specialist,7368,2006-05-13,20,4,2,Yes,Bachelor,Yes,Kyiv
+607,EMP0607,Female,48,IT,BI Developer,14099,2011-11-27,14,1,2,No,Master,Yes,Kyiv
+608,EMP0608,Male,52,HR,HR Specialist,16316,2009-05-04,17,1,1,Yes,Master,No,Kyiv
+609,EMP0609,Male,36,Finance,Financial Analyst,5333,2024-01-08,2,5,5,Yes,High School,No,Gdansk
+610,EMP0610,Female,42,Sales,Sales Rep,17136,2007-06-02,19,5,4,No,Master,Yes,Lviv
+611,EMP0611,Female,47,Sales,Sales Rep,7666,2020-03-12,6,5,1,No,High School,No,Kyiv
+612,EMP0612,Male,38,HR,HR Specialist,17908,2010-08-18,15,2,3,No,High School,No,Ternopil
+613,EMP0613,Male,37,Sales,Sales Rep,12555,2024-08-10,1,4,3,No,High School,Yes,Lviv
+614,EMP0614,Female,40,Finance,Financial Analyst,4978,2026-01-09,0,2,3,No,Bachelor,No,Ternopil
+615,EMP0615,Male,52,Operations,Coordinator,11218,2025-03-11,1,4,3,No,Bachelor,Yes,Ternopil
+616,EMP0616,Female,50,Marketing,Marketing Specialist,14890,2014-12-29,11,1,1,No,High School,No,Lviv
+617,EMP0617,Female,41,Sales,Sales Manager,12934,2019-09-13,6,1,1,No,Bachelor,Yes,Gdansk
+618,EMP0618,Female,32,HR,HR Specialist,14763,2011-05-26,15,5,3,No,Bachelor,Yes,Gdansk
+619,EMP0619,Male,22,HR,HR Specialist,3876,2014-01-20,12,5,5,No,Bachelor,No,Lviv
+620,EMP0620,Female,59,HR,HR Specialist,7762,2025-01-05,1,2,1,No,Bachelor,Yes,Kyiv
+621,EMP0621,Female,28,Operations,Coordinator,7177,2011-08-23,14,2,2,No,Master,No,Gdansk
+622,EMP0622,Male,39,IT,BI Developer,15406,2019-09-27,6,2,4,No,Master,Yes,Kyiv
+623,EMP0623,Female,36,HR,HR Specialist,9556,2018-09-18,7,5,4,Yes,Bachelor,No,Lviv
+624,EMP0624,Female,59,HR,HR Specialist,7698,2020-01-16,6,1,1,No,Bachelor,Yes,Ternopil
+625,EMP0625,Male,21,IT,BI Developer,7655,2014-09-25,11,5,5,No,Master,No,Ternopil
+626,EMP0626,Male,37,IT,Support,6283,2024-10-05,1,5,4,No,Master,Yes,Kyiv
+627,EMP0627,Male,41,HR,HR Specialist,4223,2022-03-19,4,2,4,No,High School,No,Gdansk
+628,EMP0628,Female,48,HR,HR Specialist,6203,2007-03-21,19,3,4,No,High School,No,Kyiv
+629,EMP0629,Male,23,IT,Data Analyst,11204,2025-04-03,1,3,2,No,Master,Yes,Gdansk
+630,EMP0630,Female,50,Sales,Sales Manager,11577,2014-08-03,11,1,2,Yes,Master,Yes,Lviv
+631,EMP0631,Female,57,HR,HR Specialist,14364,2020-11-12,5,5,2,No,Bachelor,Yes,Gdansk
+632,EMP0632,Male,42,Sales,Sales Rep,3925,2010-08-21,15,3,1,No,Master,Yes,Ternopil
+633,EMP0633,Female,50,IT,Data Analyst,13794,2023-12-07,2,3,5,Yes,Master,Yes,Gdansk
+634,EMP0634,Female,41,HR,HR Specialist,16576,2020-07-06,6,1,1,No,High School,No,Kyiv
+635,EMP0635,Female,26,Finance,Financial Analyst,3836,2021-03-30,5,2,2,No,Master,No,Lviv
+636,EMP0636,Female,59,Sales,Sales Manager,5651,2010-12-24,15,3,1,No,High School,Yes,Gdansk
+637,EMP0637,Female,26,Finance,Financial Analyst,15894,2011-03-18,15,4,3,No,Bachelor,No,Gdansk
+638,EMP0638,Female,35,Sales,Sales Rep,14110,2010-02-09,16,2,4,No,High School,Yes,Ternopil
+639,EMP0639,Female,30,Finance,Financial Analyst,5593,2023-11-28,2,3,2,No,Master,No,Kyiv
+640,EMP0640,Male,53,Marketing,Marketing Specialist,10461,2024-11-09,1,4,1,No,High School,No,Ternopil
+641,EMP0641,Male,50,HR,HR Specialist,6441,2010-07-25,16,2,4,Yes,Bachelor,No,Ternopil
+642,EMP0642,Female,42,HR,HR Specialist,17776,2011-09-17,14,2,2,No,Bachelor,No,Kyiv
+643,EMP0643,Male,21,Finance,Accountant,6313,2026-01-08,0,4,4,No,High School,No,Ternopil
+644,EMP0644,Male,29,Marketing,Marketing Specialist,5713,2014-02-28,12,1,2,Yes,Bachelor,Yes,Kyiv
+645,EMP0645,Male,48,IT,BI Developer,17296,2006-05-21,20,5,2,Yes,Master,No,Lviv
+646,EMP0646,Male,30,Finance,Financial Analyst,15604,2026-05-31,0,4,4,No,Bachelor,No,Lviv
+647,EMP0647,Male,42,IT,BI Developer,3629,2008-01-15,18,1,4,No,Master,No,Kyiv
+648,EMP0648,Female,35,Finance,Financial Analyst,15202,2010-11-13,15,1,5,Yes,Master,No,Kyiv
+649,EMP0649,Female,60,HR,HR Specialist,14087,2011-06-04,15,3,4,No,Bachelor,Yes,Ternopil
+650,EMP0650,Female,35,Operations,Coordinator,11817,2011-02-07,15,2,5,No,High School,No,Lviv
+651,EMP0651,Female,51,HR,HR Specialist,16603,2012-08-22,13,2,5,No,Master,Yes,Gdansk
+652,EMP0652,Female,27,IT,Data Analyst,16500,2020-05-11,6,4,4,No,Bachelor,Yes,Kyiv
+653,EMP0653,Male,32,Sales,Sales Manager,17065,2018-01-30,8,5,1,Yes,Master,No,Kyiv
+654,EMP0654,Male,52,Marketing,Marketing Specialist,7724,2022-10-16,3,3,3,Yes,High School,No,Lviv
+655,EMP0655,Female,28,Operations,Coordinator,5234,2024-12-17,1,5,5,Yes,High School,Yes,Kyiv
+656,EMP0656,Female,31,IT,Support,15433,2023-04-16,3,3,4,No,Master,Yes,Lviv
+657,EMP0657,Male,33,Operations,Coordinator,10694,2016-05-22,10,4,1,No,Master,No,Ternopil
+658,EMP0658,Female,47,Marketing,Marketing Specialist,9408,2024-03-15,2,2,2,No,Master,Yes,Lviv
+659,EMP0659,Female,22,Finance,Financial Analyst,10751,2012-12-10,13,2,1,No,Bachelor,Yes,Ternopil
+660,EMP0660,Male,46,HR,HR Specialist,15938,2020-12-20,5,1,2,No,Bachelor,No,Gdansk
+661,EMP0661,Male,38,Finance,Financial Analyst,12147,2016-02-06,10,5,2,No,Master,Yes,Gdansk
+662,EMP0662,Male,40,Operations,Coordinator,4880,2006-01-08,20,1,5,No,Master,Yes,Ternopil
+663,EMP0663,Female,54,IT,Data Analyst,9082,2009-10-24,16,2,1,Yes,High School,No,Lviv
+664,EMP0664,Male,44,HR,HR Specialist,7755,2010-06-07,16,5,3,Yes,Bachelor,Yes,Gdansk
+665,EMP0665,Male,58,HR,HR Specialist,12766,2012-02-10,14,5,5,No,Master,No,Ternopil
+666,EMP0666,Male,27,Operations,Coordinator,8871,2013-11-08,12,5,5,No,Master,No,Kyiv
+667,EMP0667,Male,26,IT,Support,4518,2013-01-03,13,4,2,No,Bachelor,No,Kyiv
+668,EMP0668,Female,37,HR,HR Specialist,13073,2007-10-21,18,4,4,No,High School,No,Gdansk
+669,EMP0669,Female,50,IT,Data Analyst,5619,2010-05-29,16,5,5,Yes,High School,Yes,Gdansk
+670,EMP0670,Female,28,Finance,Accountant,13356,2020-10-17,5,4,1,Yes,Master,No,Kyiv
+671,EMP0671,Female,44,Marketing,Marketing Specialist,8468,2023-01-21,3,3,4,Yes,Bachelor,Yes,Gdansk
+672,EMP0672,Male,52,Sales,Sales Manager,3534,2017-04-12,9,1,5,No,Bachelor,Yes,Gdansk
+673,EMP0673,Female,45,Finance,Financial Analyst,11286,2007-12-15,18,5,2,No,High School,No,Gdansk
+674,EMP0674,Male,60,Operations,Coordinator,14387,2022-02-14,4,5,4,No,Bachelor,No,Ternopil
+675,EMP0675,Male,31,Marketing,Marketing Specialist,15086,2012-03-12,14,1,5,No,High School,Yes,Kyiv
+676,EMP0676,Male,57,IT,Support,12048,2008-10-11,17,2,4,No,Bachelor,Yes,Lviv
+677,EMP0677,Female,26,Sales,Sales Manager,16720,2020-03-27,6,5,5,No,Master,Yes,Gdansk
+678,EMP0678,Female,22,Sales,Sales Manager,17584,2013-05-01,13,5,3,No,Master,Yes,Kyiv
+679,EMP0679,Male,37,Sales,Sales Rep,16087,2017-05-19,9,1,2,No,Master,Yes,Kyiv
+680,EMP0680,Male,40,Marketing,Marketing Specialist,9888,2021-07-17,5,1,3,No,Master,No,Ternopil
+681,EMP0681,Male,59,Finance,Accountant,13101,2025-04-17,1,2,4,No,High School,No,Kyiv
+682,EMP0682,Female,25,HR,HR Specialist,11432,2015-12-07,10,1,4,No,Bachelor,No,Kyiv
+683,EMP0683,Female,57,IT,Support,10164,2006-05-31,20,4,1,No,Bachelor,Yes,Ternopil
+684,EMP0684,Female,56,Marketing,Marketing Specialist,10901,2018-10-29,7,1,1,No,High School,No,Lviv
+685,EMP0685,Female,45,Sales,Sales Rep,9257,2011-03-16,15,2,5,No,Master,Yes,Lviv
+686,EMP0686,Female,28,Operations,Coordinator,17106,2017-06-16,9,2,5,No,Master,Yes,Ternopil
+687,EMP0687,Female,38,Operations,Coordinator,7529,2006-03-23,20,3,3,No,Master,No,Kyiv
+688,EMP0688,Female,21,Operations,Coordinator,3656,2006-08-02,20,2,4,No,High School,No,Gdansk
+689,EMP0689,Male,55,Marketing,Marketing Specialist,4007,2005-09-04,20,4,1,No,Master,No,Gdansk
+690,EMP0690,Female,44,IT,Support,6661,2026-05-27,0,4,1,No,High School,Yes,Ternopil
+691,EMP0691,Female,35,Operations,Coordinator,7338,2020-06-14,6,4,3,Yes,Master,No,Lviv
+692,EMP0692,Male,38,Sales,Sales Rep,12824,2006-01-13,20,5,4,No,High School,Yes,Lviv
+693,EMP0693,Female,57,Sales,Sales Rep,17516,2024-05-25,2,2,5,No,Bachelor,Yes,Ternopil
+694,EMP0694,Male,41,Operations,Coordinator,10586,2025-12-23,0,4,3,Yes,High School,No,Gdansk
+695,EMP0695,Female,47,HR,HR Specialist,12223,2019-07-07,7,4,3,Yes,Master,Yes,Ternopil
+696,EMP0696,Female,25,Sales,Sales Rep,7595,2018-08-12,7,2,2,No,Master,Yes,Kyiv
+697,EMP0697,Female,37,Sales,Sales Manager,7549,2013-07-20,13,1,4,No,Master,Yes,Ternopil
+698,EMP0698,Female,27,Marketing,Marketing Specialist,13745,2023-09-26,2,4,5,Yes,Bachelor,Yes,Kyiv
+699,EMP0699,Male,49,Finance,Financial Analyst,4397,2024-05-25,2,3,5,No,Bachelor,Yes,Kyiv
+700,EMP0700,Female,27,Marketing,Marketing Specialist,13613,2017-01-17,9,4,2,No,High School,Yes,Gdansk
+701,EMP0701,Male,42,Finance,Financial Analyst,14164,2012-09-18,13,1,4,No,Master,Yes,Kyiv
+702,EMP0702,Male,57,Sales,Sales Rep,5564,2007-06-30,19,5,3,No,Master,No,Gdansk
+703,EMP0703,Male,29,IT,Data Analyst,8606,2022-07-08,4,5,4,No,High School,No,Ternopil
+704,EMP0704,Female,59,Marketing,Marketing Specialist,9118,2021-12-02,4,3,3,Yes,High School,Yes,Kyiv
+705,EMP0705,Female,43,IT,Support,6701,2009-07-06,17,2,2,Yes,Master,Yes,Gdansk
+706,EMP0706,Female,58,Operations,Coordinator,12774,2006-08-14,19,3,5,No,Master,No,Lviv
+707,EMP0707,Male,21,Sales,Sales Manager,13965,2024-11-18,1,2,2,No,High School,Yes,Lviv
+708,EMP0708,Female,32,Finance,Financial Analyst,17034,2014-04-18,12,1,3,Yes,Bachelor,No,Kyiv
+709,EMP0709,Female,33,Marketing,Marketing Specialist,13843,2022-03-04,4,5,3,Yes,Bachelor,Yes,Lviv
+710,EMP0710,Male,42,HR,HR Specialist,17386,2019-03-19,7,5,2,No,Bachelor,Yes,Lviv
+711,EMP0711,Male,45,HR,HR Specialist,14229,2025-08-17,0,1,3,No,Master,No,Lviv
+712,EMP0712,Female,25,HR,HR Specialist,5441,2020-11-03,5,2,2,No,Bachelor,No,Ternopil
+713,EMP0713,Male,60,HR,HR Specialist,13122,2006-03-31,20,2,5,No,Bachelor,No,Lviv
+714,EMP0714,Female,34,Sales,Sales Manager,15416,2021-11-12,4,1,4,No,Bachelor,Yes,Gdansk
+715,EMP0715,Female,32,Operations,Coordinator,8772,2010-11-10,15,3,5,No,High School,No,Gdansk
+716,EMP0716,Male,34,HR,HR Specialist,7096,2005-10-09,20,2,4,No,Master,Yes,Ternopil
+717,EMP0717,Female,37,Finance,Financial Analyst,12520,2008-05-14,18,1,2,Yes,Master,No,Ternopil
+718,EMP0718,Female,48,IT,Support,10891,2024-12-03,1,4,4,No,Master,No,Ternopil
+719,EMP0719,Female,35,HR,HR Specialist,7851,2026-04-29,0,1,3,Yes,Master,Yes,Ternopil
+720,EMP0720,Female,23,IT,Data Analyst,12446,2023-06-24,3,2,3,No,High School,No,Ternopil
+721,EMP0721,Male,55,HR,HR Specialist,7778,2019-08-04,6,1,3,No,Master,No,Gdansk
+722,EMP0722,Male,46,Marketing,Marketing Specialist,7228,2010-09-02,15,2,2,No,Bachelor,No,Gdansk
+723,EMP0723,Female,47,HR,HR Specialist,6933,2016-04-26,10,4,4,No,Bachelor,No,Lviv
+724,EMP0724,Female,43,Marketing,Marketing Specialist,9067,2017-07-27,9,2,4,No,High School,No,Ternopil
+725,EMP0725,Male,30,HR,HR Specialist,8910,2008-07-17,18,5,5,No,High School,No,Gdansk
+726,EMP0726,Female,33,IT,BI Developer,11278,2023-10-30,2,1,3,No,Master,No,Kyiv
+727,EMP0727,Male,59,IT,Data Analyst,11505,2009-05-04,17,1,2,No,Bachelor,No,Ternopil
+728,EMP0728,Male,50,IT,Data Analyst,4441,2016-08-28,9,3,5,Yes,Bachelor,No,Gdansk
+729,EMP0729,Female,51,Finance,Accountant,15675,2023-05-25,3,1,4,No,Bachelor,Yes,Ternopil
+730,EMP0730,Female,58,Finance,Financial Analyst,6825,2020-09-24,5,5,4,No,Bachelor,Yes,Lviv
+731,EMP0731,Male,54,Finance,Accountant,8888,2013-09-26,12,5,4,No,Master,Yes,Kyiv
+732,EMP0732,Female,46,HR,HR Specialist,13543,2014-08-08,11,2,4,No,Bachelor,No,Gdansk
+733,EMP0733,Female,23,Finance,Accountant,7427,2008-06-15,18,2,3,No,Master,Yes,Lviv
+734,EMP0734,Female,25,Finance,Financial Analyst,15876,2009-06-01,17,1,5,No,Master,No,Lviv
+735,EMP0735,Female,22,HR,HR Specialist,4699,2010-07-11,16,4,4,No,High School,No,Lviv
+736,EMP0736,Male,29,Finance,Accountant,8859,2026-03-23,0,4,4,No,Bachelor,Yes,Lviv
+737,EMP0737,Female,31,Operations,Coordinator,6294,2021-12-01,4,1,5,Yes,Bachelor,No,Kyiv
+738,EMP0738,Male,38,Marketing,Marketing Specialist,6014,2021-06-21,5,4,3,No,Bachelor,Yes,Lviv
+739,EMP0739,Male,45,Finance,Accountant,14810,2005-11-09,20,3,4,Yes,High School,Yes,Kyiv
+740,EMP0740,Male,33,Finance,Accountant,4997,2019-01-21,7,1,4,Yes,Bachelor,No,Lviv
+741,EMP0741,Male,31,Operations,Coordinator,4221,2019-06-12,7,4,5,Yes,Master,No,Lviv
+742,EMP0742,Female,28,Marketing,Marketing Specialist,7307,2009-01-12,17,2,1,No,Master,Yes,Kyiv
+743,EMP0743,Male,50,Finance,Financial Analyst,7106,2026-01-11,0,1,3,No,Master,Yes,Kyiv
+744,EMP0744,Female,27,IT,BI Developer,15174,2016-09-28,9,5,5,No,Master,Yes,Ternopil
+745,EMP0745,Male,41,Operations,Coordinator,17451,2022-02-10,4,4,1,No,Bachelor,No,Gdansk
+746,EMP0746,Male,35,Marketing,Marketing Specialist,3847,2009-10-06,16,5,1,No,Bachelor,No,Lviv
+747,EMP0747,Female,52,Marketing,Marketing Specialist,8359,2025-05-20,1,2,2,No,Bachelor,Yes,Lviv
+748,EMP0748,Female,41,Operations,Coordinator,14044,2016-05-24,10,1,5,No,High School,No,Kyiv
+749,EMP0749,Male,34,IT,Support,12336,2016-02-07,10,1,2,No,High School,No,Ternopil
+750,EMP0750,Male,52,IT,BI Developer,4646,2006-07-31,20,2,1,No,Bachelor,Yes,Kyiv
+751,EMP0751,Male,53,IT,Support,4780,2009-04-20,17,4,4,No,Bachelor,Yes,Lviv
+752,EMP0752,Female,39,Finance,Accountant,12944,2007-03-29,19,4,2,No,Master,Yes,Ternopil
+753,EMP0753,Female,48,Finance,Financial Analyst,11778,2020-12-01,5,5,4,No,Master,Yes,Gdansk
+754,EMP0754,Male,56,Finance,Accountant,15405,2016-09-30,9,2,3,No,Master,No,Gdansk
+755,EMP0755,Female,25,HR,HR Specialist,8959,2008-09-26,17,2,4,No,Bachelor,Yes,Kyiv
+756,EMP0756,Female,46,Sales,Sales Manager,15660,2011-01-07,15,3,4,No,Master,Yes,Gdansk
+757,EMP0757,Male,33,Sales,Sales Rep,16000,2013-10-16,12,4,3,No,High School,No,Ternopil
+758,EMP0758,Female,36,Operations,Coordinator,7470,2006-01-18,20,4,1,No,High School,Yes,Lviv
+759,EMP0759,Male,59,HR,HR Specialist,12975,2022-03-22,4,2,1,Yes,Bachelor,No,Gdansk
+760,EMP0760,Female,31,Operations,Coordinator,17094,2010-04-28,16,4,3,No,High School,No,Ternopil
+761,EMP0761,Female,30,Operations,Coordinator,7907,2024-06-04,2,2,4,No,Bachelor,Yes,Gdansk
+762,EMP0762,Female,54,Sales,Sales Rep,10329,2023-08-08,2,3,4,No,Bachelor,No,Lviv
+763,EMP0763,Male,53,Operations,Coordinator,5306,2019-11-24,6,4,5,No,Bachelor,Yes,Kyiv
+764,EMP0764,Female,49,Operations,Coordinator,13770,2020-03-20,6,5,1,No,Bachelor,No,Kyiv
+765,EMP0765,Female,22,Finance,Accountant,13095,2018-06-29,8,2,4,No,High School,Yes,Kyiv
+766,EMP0766,Male,27,Sales,Sales Manager,6958,2025-08-23,0,5,1,No,High School,No,Gdansk
+767,EMP0767,Female,44,Finance,Financial Analyst,14671,2006-12-27,19,3,3,No,Master,No,Gdansk
+768,EMP0768,Male,21,Marketing,Marketing Specialist,10986,2015-02-13,11,4,2,Yes,High School,Yes,Ternopil
+769,EMP0769,Female,53,Operations,Coordinator,10268,2014-12-13,11,2,1,No,Bachelor,No,Kyiv
+770,EMP0770,Female,46,Operations,Coordinator,15611,2012-04-04,14,5,1,No,Master,No,Kyiv
+771,EMP0771,Male,30,Operations,Coordinator,17751,2016-09-24,9,5,5,No,Bachelor,Yes,Gdansk
+772,EMP0772,Male,49,Sales,Sales Manager,5395,2008-12-06,17,4,5,No,Bachelor,Yes,Lviv
+773,EMP0773,Male,31,Operations,Coordinator,8849,2022-12-20,3,4,3,No,High School,No,Gdansk
+774,EMP0774,Female,26,Operations,Coordinator,16534,2021-10-30,4,3,2,No,High School,Yes,Ternopil
+775,EMP0775,Female,35,Finance,Financial Analyst,7162,2005-09-09,20,3,1,No,Bachelor,Yes,Kyiv
+776,EMP0776,Female,29,HR,HR Specialist,17480,2022-10-10,3,3,4,No,High School,Yes,Ternopil
+777,EMP0777,Female,44,Sales,Sales Rep,16566,2013-12-28,12,2,5,No,High School,Yes,Kyiv
+778,EMP0778,Female,30,Finance,Accountant,16871,2008-12-10,17,3,2,No,High School,No,Lviv
+779,EMP0779,Male,59,Marketing,Marketing Specialist,8745,2021-08-24,4,3,5,Yes,Master,No,Lviv
+780,EMP0780,Female,30,Finance,Financial Analyst,17064,2014-07-02,12,2,2,Yes,Bachelor,No,Gdansk
+781,EMP0781,Female,42,HR,HR Specialist,10421,2025-10-22,0,4,3,No,Master,Yes,Ternopil
+782,EMP0782,Male,29,HR,HR Specialist,8798,2009-01-13,17,5,1,No,Master,Yes,Lviv
+783,EMP0783,Male,34,Finance,Financial Analyst,16678,2017-05-18,9,2,1,No,High School,Yes,Lviv
+784,EMP0784,Male,43,Finance,Financial Analyst,11263,2021-07-02,5,2,1,Yes,High School,No,Gdansk
+785,EMP0785,Male,28,IT,Support,7446,2014-03-29,12,4,4,No,High School,Yes,Gdansk
+786,EMP0786,Female,38,Operations,Coordinator,13860,2011-09-04,14,4,3,Yes,Bachelor,Yes,Kyiv
+787,EMP0787,Male,22,Sales,Sales Manager,13114,2005-08-26,20,5,5,No,Master,Yes,Lviv
+788,EMP0788,Female,40,Finance,Financial Analyst,12862,2005-08-09,20,2,1,No,Bachelor,Yes,Gdansk
+789,EMP0789,Female,25,Operations,Coordinator,12001,2013-10-21,12,5,5,Yes,Bachelor,Yes,Lviv
+790,EMP0790,Female,41,Marketing,Marketing Specialist,5515,2025-10-18,0,1,2,No,Bachelor,Yes,Kyiv
+791,EMP0791,Male,53,Marketing,Marketing Specialist,8391,2025-06-16,1,3,5,No,Master,Yes,Lviv
+792,EMP0792,Female,29,HR,HR Specialist,12954,2010-03-05,16,4,3,No,Master,Yes,Kyiv
+793,EMP0793,Male,30,Operations,Coordinator,8410,2019-07-13,7,2,2,No,High School,Yes,Ternopil
+794,EMP0794,Male,56,HR,HR Specialist,7677,2006-12-30,19,3,4,No,Master,No,Kyiv
+795,EMP0795,Male,25,HR,HR Specialist,13814,2021-10-29,4,3,2,No,High School,Yes,Gdansk
+796,EMP0796,Male,59,IT,BI Developer,7555,2013-01-19,13,1,3,Yes,High School,Yes,Gdansk
+797,EMP0797,Female,42,Sales,Sales Manager,16247,2006-06-19,20,3,2,No,Master,Yes,Kyiv
+798,EMP0798,Male,32,Finance,Accountant,12125,2014-06-09,12,3,5,No,Bachelor,No,Ternopil
+799,EMP0799,Male,31,Marketing,Marketing Specialist,8710,2007-06-14,19,4,2,No,High School,No,Gdansk
+800,EMP0800,Male,29,Marketing,Marketing Specialist,5837,2018-07-27,8,4,5,No,Bachelor,No,Lviv
+801,EMP0801,Female,43,Operations,Coordinator,16582,2012-04-30,14,4,5,No,Master,No,Lviv
+802,EMP0802,Female,26,HR,HR Specialist,13898,2017-01-04,9,1,1,No,Bachelor,Yes,Kyiv
+803,EMP0803,Male,48,Sales,Sales Manager,14592,2008-11-23,17,5,2,No,Master,Yes,Gdansk
+804,EMP0804,Female,36,Sales,Sales Rep,15607,2025-12-24,0,5,5,Yes,High School,No,Lviv
+805,EMP0805,Female,29,Operations,Coordinator,11916,2021-06-22,5,3,1,No,Master,No,Lviv
+806,EMP0806,Male,55,HR,HR Specialist,17439,2015-08-19,10,1,3,No,Master,No,Ternopil
+807,EMP0807,Female,34,IT,Data Analyst,8494,2005-10-16,20,5,1,No,High School,No,Kyiv
+808,EMP0808,Female,40,HR,HR Specialist,9298,2006-12-11,19,1,1,No,High School,Yes,Gdansk
+809,EMP0809,Female,33,HR,HR Specialist,4888,2022-12-22,3,5,5,No,Master,Yes,Gdansk
+810,EMP0810,Female,46,Sales,Sales Rep,9632,2018-04-07,8,3,3,No,Bachelor,No,Kyiv
+811,EMP0811,Female,48,Finance,Financial Analyst,3595,2021-05-20,5,3,2,Yes,Bachelor,No,Kyiv
+812,EMP0812,Male,31,IT,BI Developer,14415,2013-02-13,13,2,4,No,Bachelor,No,Gdansk
+813,EMP0813,Female,53,Marketing,Marketing Specialist,15394,2022-02-14,4,4,2,Yes,Bachelor,Yes,Lviv
+814,EMP0814,Male,24,IT,BI Developer,14613,2010-07-27,16,3,4,No,High School,Yes,Gdansk
+815,EMP0815,Male,48,Finance,Financial Analyst,7559,2016-11-25,9,5,2,No,Bachelor,Yes,Ternopil
+816,EMP0816,Female,33,Sales,Sales Manager,11264,2018-08-24,7,1,5,No,Bachelor,Yes,Lviv
+817,EMP0817,Male,38,IT,Data Analyst,6648,2022-01-06,4,2,4,Yes,High School,Yes,Kyiv
+818,EMP0818,Female,35,Sales,Sales Manager,7133,2012-11-06,13,3,4,No,Bachelor,No,Kyiv
+819,EMP0819,Female,43,HR,HR Specialist,15158,2018-01-26,8,4,2,No,Bachelor,Yes,Kyiv
+820,EMP0820,Female,51,Sales,Sales Rep,8090,2016-04-14,10,5,1,No,Bachelor,No,Gdansk
+821,EMP0821,Male,21,HR,HR Specialist,14689,2017-06-04,9,5,2,No,Master,No,Ternopil
+822,EMP0822,Female,26,IT,Support,5242,2018-04-15,8,2,5,Yes,Bachelor,Yes,Lviv
+823,EMP0823,Female,40,Operations,Coordinator,15384,2023-06-22,3,4,2,No,High School,Yes,Kyiv
+824,EMP0824,Female,56,IT,Data Analyst,9190,2012-10-24,13,3,4,Yes,Master,Yes,Gdansk
+825,EMP0825,Female,29,Finance,Accountant,8245,2020-09-27,5,1,5,Yes,High School,Yes,Gdansk
+826,EMP0826,Female,56,Finance,Accountant,16269,2020-12-18,5,4,4,No,Master,Yes,Lviv
+827,EMP0827,Male,53,Sales,Sales Rep,10961,2008-04-13,18,5,5,No,Master,Yes,Ternopil
+828,EMP0828,Male,35,Operations,Coordinator,4247,2009-06-03,17,5,2,No,Bachelor,Yes,Ternopil
+829,EMP0829,Male,34,IT,BI Developer,12258,2024-09-04,1,1,1,No,High School,No,Ternopil
+830,EMP0830,Female,41,Sales,Sales Manager,4438,2022-01-02,4,1,3,No,High School,No,Lviv
+831,EMP0831,Male,45,HR,HR Specialist,14212,2008-08-31,17,3,5,No,Bachelor,No,Lviv
+832,EMP0832,Female,30,HR,HR Specialist,10808,2019-10-07,6,2,4,No,Bachelor,No,Kyiv
+833,EMP0833,Male,33,Finance,Accountant,12833,2012-04-29,14,4,2,No,Bachelor,No,Lviv
+834,EMP0834,Male,30,IT,BI Developer,4680,2007-04-29,19,4,2,No,High School,No,Kyiv
+835,EMP0835,Male,45,Operations,Coordinator,9791,2025-09-24,0,1,1,Yes,High School,Yes,Lviv
+836,EMP0836,Male,21,IT,Data Analyst,16470,2018-05-19,8,1,5,No,High School,Yes,Lviv
+837,EMP0837,Male,40,IT,BI Developer,8935,2007-12-19,18,4,2,No,Bachelor,No,Kyiv
+838,EMP0838,Female,27,Sales,Sales Rep,11881,2022-10-25,3,4,2,Yes,Bachelor,Yes,Lviv
+839,EMP0839,Female,35,Finance,Financial Analyst,17901,2022-01-31,4,4,1,No,Bachelor,Yes,Lviv
+840,EMP0840,Female,28,Sales,Sales Manager,9406,2015-06-23,11,1,1,No,Bachelor,Yes,Gdansk
+841,EMP0841,Female,30,Marketing,Marketing Specialist,14432,2007-05-03,19,3,5,No,Master,Yes,Ternopil
+842,EMP0842,Male,21,Finance,Financial Analyst,17618,2017-08-01,8,2,2,No,Bachelor,No,Gdansk
+843,EMP0843,Female,38,Operations,Coordinator,5870,2024-06-02,2,1,3,No,Bachelor,No,Ternopil
+844,EMP0844,Female,59,HR,HR Specialist,16500,2012-11-28,13,3,2,No,Master,No,Gdansk
+845,EMP0845,Male,45,Marketing,Marketing Specialist,4869,2008-11-01,17,5,4,No,High School,Yes,Kyiv
+846,EMP0846,Male,44,IT,BI Developer,12648,2026-04-16,0,4,2,Yes,Bachelor,No,Ternopil
+847,EMP0847,Female,36,IT,BI Developer,6952,2012-05-20,14,2,1,No,Bachelor,Yes,Gdansk
+848,EMP0848,Male,27,Operations,Coordinator,14358,2013-01-23,13,5,1,No,High School,Yes,Kyiv
+849,EMP0849,Male,25,IT,BI Developer,3704,2022-06-20,4,5,4,No,Bachelor,No,Lviv
+850,EMP0850,Female,49,Operations,Coordinator,16302,2011-01-04,15,1,3,Yes,Bachelor,Yes,Kyiv
+851,EMP0851,Male,46,Marketing,Marketing Specialist,17142,2010-05-12,16,4,4,No,High School,No,Ternopil
+852,EMP0852,Female,26,Operations,Coordinator,12044,2013-05-13,13,4,2,No,Master,Yes,Lviv
+853,EMP0853,Male,50,Finance,Accountant,11321,2008-09-27,17,3,4,No,Bachelor,Yes,Ternopil
+854,EMP0854,Male,27,Operations,Coordinator,4774,2020-03-14,6,3,5,No,Bachelor,Yes,Ternopil
+855,EMP0855,Male,59,IT,Support,3679,2023-06-27,3,3,2,No,Bachelor,Yes,Lviv
+856,EMP0856,Male,57,HR,HR Specialist,16447,2007-10-18,18,4,1,Yes,Master,Yes,Ternopil
+857,EMP0857,Male,41,Sales,Sales Manager,15818,2017-01-09,9,4,3,No,High School,Yes,Ternopil
+858,EMP0858,Male,58,Finance,Accountant,16542,2010-05-18,16,4,4,No,Bachelor,No,Lviv
+859,EMP0859,Male,35,IT,Support,17990,2012-06-22,14,2,2,No,High School,No,Gdansk
+860,EMP0860,Female,23,IT,BI Developer,15177,2017-01-28,9,4,2,No,High School,Yes,Lviv
+861,EMP0861,Male,40,Marketing,Marketing Specialist,12464,2023-07-23,3,1,4,Yes,Master,No,Lviv
+862,EMP0862,Female,43,HR,HR Specialist,4961,2024-03-08,2,1,2,No,Master,No,Ternopil
+863,EMP0863,Female,23,Finance,Accountant,9455,2022-10-12,3,3,4,No,High School,Yes,Gdansk
+864,EMP0864,Female,53,HR,HR Specialist,10874,2015-06-20,11,3,1,No,High School,Yes,Lviv
+865,EMP0865,Female,45,Operations,Coordinator,6092,2022-06-07,4,5,4,Yes,Bachelor,No,Gdansk
+866,EMP0866,Female,55,Operations,Coordinator,16906,2014-12-06,11,4,1,Yes,Bachelor,Yes,Gdansk
+867,EMP0867,Male,41,Finance,Accountant,9110,2014-02-14,12,5,4,No,High School,No,Kyiv
+868,EMP0868,Male,51,HR,HR Specialist,5884,2024-10-23,1,2,3,No,Bachelor,No,Kyiv
+869,EMP0869,Male,34,HR,HR Specialist,17721,2011-04-15,15,1,4,No,Master,Yes,Kyiv
+870,EMP0870,Male,40,IT,Data Analyst,17815,2018-01-05,8,4,4,No,Bachelor,No,Lviv
+871,EMP0871,Female,31,Sales,Sales Rep,6753,2013-02-07,13,3,4,No,Master,Yes,Gdansk
+872,EMP0872,Male,25,HR,HR Specialist,15341,2025-10-15,0,5,5,No,Master,No,Kyiv
+873,EMP0873,Female,28,IT,BI Developer,16476,2021-11-17,4,4,3,No,High School,Yes,Gdansk
+874,EMP0874,Male,23,IT,Support,7081,2011-09-09,14,2,4,No,Bachelor,No,Lviv
+875,EMP0875,Male,44,HR,HR Specialist,16832,2019-08-18,6,3,1,No,Master,Yes,Gdansk
+876,EMP0876,Female,43,Operations,Coordinator,17068,2013-01-03,13,5,4,No,Master,Yes,Lviv
+877,EMP0877,Male,55,Finance,Financial Analyst,10641,2015-05-03,11,4,3,No,High School,No,Kyiv
+878,EMP0878,Male,60,Sales,Sales Rep,10238,2023-09-01,2,1,4,No,High School,Yes,Gdansk
+879,EMP0879,Male,35,Marketing,Marketing Specialist,16228,2016-12-28,9,4,5,No,Bachelor,Yes,Gdansk
+880,EMP0880,Female,21,Sales,Sales Manager,9638,2012-01-03,14,2,5,No,Master,No,Ternopil
+881,EMP0881,Male,21,Finance,Accountant,3930,2025-12-29,0,2,3,No,High School,No,Ternopil
+882,EMP0882,Female,33,IT,Support,13596,2013-03-31,13,4,1,No,Master,Yes,Gdansk
+883,EMP0883,Male,48,Operations,Coordinator,7284,2014-02-20,12,1,2,No,Bachelor,No,Ternopil
+884,EMP0884,Male,26,Marketing,Marketing Specialist,3920,2016-04-18,10,4,1,No,Bachelor,Yes,Kyiv
+885,EMP0885,Female,43,Marketing,Marketing Specialist,6556,2026-05-24,0,2,2,No,Bachelor,Yes,Gdansk
+886,EMP0886,Male,22,HR,HR Specialist,13959,2018-06-19,8,5,1,Yes,Master,Yes,Kyiv
+887,EMP0887,Male,25,IT,BI Developer,11597,2018-04-30,8,3,2,No,Bachelor,No,Kyiv
+888,EMP0888,Male,34,Finance,Accountant,14761,2010-09-16,15,4,4,No,High School,No,Lviv
+889,EMP0889,Male,28,IT,BI Developer,9116,2026-04-29,0,3,4,No,High School,Yes,Lviv
+890,EMP0890,Male,55,Marketing,Marketing Specialist,3877,2023-04-23,3,5,5,No,Bachelor,No,Kyiv
+891,EMP0891,Male,26,IT,Data Analyst,15423,2016-05-22,10,2,3,No,Master,Yes,Kyiv
+892,EMP0892,Female,53,HR,HR Specialist,10052,2011-11-22,14,2,3,No,Bachelor,No,Gdansk
+893,EMP0893,Female,48,Sales,Sales Manager,17964,2021-04-16,5,4,4,No,High School,No,Ternopil
+894,EMP0894,Female,33,Marketing,Marketing Specialist,12792,2007-01-19,19,3,3,Yes,Master,Yes,Kyiv
+895,EMP0895,Female,59,Marketing,Marketing Specialist,17044,2008-01-06,18,5,3,No,Bachelor,Yes,Lviv
+896,EMP0896,Male,25,HR,HR Specialist,7025,2021-01-28,5,3,3,No,Master,Yes,Kyiv
+897,EMP0897,Female,57,HR,HR Specialist,16529,2016-04-13,10,3,2,No,Bachelor,No,Ternopil
+898,EMP0898,Male,56,Marketing,Marketing Specialist,8055,2010-04-13,16,5,1,No,High School,No,Gdansk
+899,EMP0899,Male,52,HR,HR Specialist,11669,2020-04-21,6,1,3,No,Bachelor,Yes,Gdansk
+900,EMP0900,Female,36,IT,Support,12943,2015-10-03,10,1,3,Yes,High School,Yes,Gdansk
+901,EMP0901,Male,42,HR,HR Specialist,14064,2014-07-14,12,1,1,No,Bachelor,No,Ternopil
+902,EMP0902,Male,56,HR,HR Specialist,16191,2015-01-09,11,3,4,No,Bachelor,No,Ternopil
+903,EMP0903,Male,44,Operations,Coordinator,13624,2010-09-08,15,1,1,No,Bachelor,Yes,Lviv
+904,EMP0904,Male,26,Sales,Sales Manager,6631,2013-04-08,13,3,5,Yes,High School,Yes,Ternopil
+905,EMP0905,Male,37,Sales,Sales Rep,8895,2025-02-24,1,5,4,No,High School,Yes,Lviv
+906,EMP0906,Female,30,Marketing,Marketing Specialist,15837,2023-05-27,3,5,4,No,High School,Yes,Lviv
+907,EMP0907,Female,51,Marketing,Marketing Specialist,7200,2011-03-12,15,1,3,No,High School,Yes,Ternopil
+908,EMP0908,Male,25,Marketing,Marketing Specialist,11603,2006-04-20,20,1,2,Yes,High School,Yes,Gdansk
+909,EMP0909,Female,34,Finance,Accountant,16836,2011-06-10,15,5,5,No,Master,No,Gdansk
+910,EMP0910,Male,35,Operations,Coordinator,9457,2010-06-09,16,4,4,No,High School,Yes,Gdansk
+911,EMP0911,Male,40,IT,Data Analyst,17751,2017-12-27,8,5,1,No,Master,Yes,Kyiv
+912,EMP0912,Female,22,IT,Data Analyst,11302,2012-04-28,14,5,4,No,Master,Yes,Kyiv
+913,EMP0913,Female,53,HR,HR Specialist,10559,2020-05-14,6,5,3,Yes,Master,No,Ternopil
+914,EMP0914,Female,33,Sales,Sales Rep,8316,2006-01-20,20,2,4,No,High School,No,Gdansk
+915,EMP0915,Male,36,Marketing,Marketing Specialist,5319,2022-08-16,3,2,1,Yes,Bachelor,No,Lviv
+916,EMP0916,Female,46,Sales,Sales Rep,9937,2018-04-07,8,1,2,No,Master,Yes,Lviv
+917,EMP0917,Female,21,IT,BI Developer,5044,2006-03-09,20,2,5,No,Master,No,Lviv
+918,EMP0918,Male,42,IT,BI Developer,10958,2024-05-05,2,2,1,No,Master,No,Kyiv
+919,EMP0919,Male,59,IT,BI Developer,9269,2024-05-03,2,4,5,Yes,Master,Yes,Gdansk
+920,EMP0920,Female,35,Sales,Sales Rep,12106,2025-10-12,0,5,2,No,Bachelor,Yes,Ternopil
+921,EMP0921,Female,55,Operations,Coordinator,7716,2011-11-24,14,4,3,No,Master,Yes,Ternopil
+922,EMP0922,Female,28,HR,HR Specialist,7922,2009-08-28,16,5,1,No,Master,Yes,Lviv
+923,EMP0923,Female,44,HR,HR Specialist,6880,2026-03-26,0,1,2,No,High School,Yes,Ternopil
+924,EMP0924,Female,43,Operations,Coordinator,8926,2010-05-05,16,4,5,No,Master,No,Lviv
+925,EMP0925,Female,50,Sales,Sales Manager,12784,2007-06-02,19,3,3,Yes,Bachelor,No,Lviv
+926,EMP0926,Male,40,Finance,Accountant,11476,2010-03-07,16,3,1,No,Bachelor,No,Kyiv
+927,EMP0927,Male,52,IT,BI Developer,8510,2008-05-31,18,1,4,No,High School,Yes,Kyiv
+928,EMP0928,Male,26,HR,HR Specialist,15185,2015-03-09,11,3,2,No,Master,Yes,Ternopil
+929,EMP0929,Male,45,IT,Data Analyst,10423,2011-02-02,15,4,1,No,Master,No,Lviv
+930,EMP0930,Male,33,Marketing,Marketing Specialist,7596,2015-10-09,10,2,4,No,Bachelor,No,Ternopil
+931,EMP0931,Female,55,Sales,Sales Manager,6504,2007-09-16,18,4,4,Yes,Bachelor,No,Ternopil
+932,EMP0932,Female,50,Marketing,Marketing Specialist,10389,2012-02-02,14,4,4,Yes,High School,Yes,Gdansk
+933,EMP0933,Male,58,Sales,Sales Rep,11891,2007-03-02,19,3,2,No,High School,No,Kyiv
+934,EMP0934,Male,50,Finance,Accountant,16729,2013-08-23,12,5,4,Yes,Bachelor,Yes,Ternopil
+935,EMP0935,Male,39,Operations,Coordinator,12764,2015-10-01,10,4,3,Yes,Bachelor,Yes,Lviv
+936,EMP0936,Male,35,Marketing,Marketing Specialist,14570,2008-11-22,17,2,3,No,High School,Yes,Gdansk
+937,EMP0937,Male,30,Marketing,Marketing Specialist,13392,2023-06-26,3,1,5,Yes,Bachelor,Yes,Kyiv
+938,EMP0938,Female,24,Finance,Accountant,5495,2009-12-18,16,3,4,No,Bachelor,Yes,Ternopil
+939,EMP0939,Female,30,Marketing,Marketing Specialist,13923,2007-06-01,19,1,2,No,High School,Yes,Lviv
+940,EMP0940,Female,39,Marketing,Marketing Specialist,14436,2010-11-30,15,1,5,No,Master,No,Gdansk
+941,EMP0941,Female,30,Finance,Accountant,3958,2012-01-01,14,3,4,Yes,High School,No,Kyiv
+942,EMP0942,Female,23,Marketing,Marketing Specialist,9311,2024-09-02,1,2,4,No,Master,Yes,Lviv
+943,EMP0943,Female,53,HR,HR Specialist,4528,2014-08-05,11,2,2,No,High School,No,Gdansk
+944,EMP0944,Female,46,Operations,Coordinator,4617,2017-08-28,8,4,4,No,High School,Yes,Ternopil
+945,EMP0945,Female,58,IT,Support,13616,2015-10-04,10,4,1,Yes,Bachelor,Yes,Lviv
+946,EMP0946,Female,41,Sales,Sales Rep,15950,2010-08-20,15,2,2,Yes,Bachelor,No,Gdansk
+947,EMP0947,Male,23,Sales,Sales Rep,17374,2007-03-28,19,1,4,No,High School,Yes,Lviv
+948,EMP0948,Male,57,HR,HR Specialist,12617,2012-01-21,14,2,2,No,Master,No,Ternopil
+949,EMP0949,Male,26,IT,Data Analyst,13037,2020-12-20,5,1,1,No,Bachelor,Yes,Kyiv
+950,EMP0950,Male,42,HR,HR Specialist,6536,2007-10-28,18,5,4,No,Bachelor,No,Ternopil
+951,EMP0951,Female,45,HR,HR Specialist,17819,2023-12-18,2,1,5,Yes,Bachelor,No,Kyiv
+952,EMP0952,Female,22,Sales,Sales Manager,7170,2019-07-05,7,3,3,No,High School,No,Kyiv
+953,EMP0953,Male,54,IT,BI Developer,13514,2023-10-30,2,5,3,No,High School,Yes,Kyiv
+954,EMP0954,Male,23,Marketing,Marketing Specialist,9038,2017-08-31,8,4,3,No,Master,Yes,Lviv
+955,EMP0955,Male,36,IT,Support,11586,2015-08-27,10,1,5,No,High School,Yes,Ternopil
+956,EMP0956,Male,56,Sales,Sales Manager,11344,2006-09-24,19,2,3,Yes,Bachelor,Yes,Gdansk
+957,EMP0957,Female,51,Marketing,Marketing Specialist,8471,2006-02-05,20,2,1,Yes,Bachelor,Yes,Gdansk
+958,EMP0958,Male,45,Operations,Coordinator,16044,2008-11-29,17,4,2,No,High School,No,Lviv
+959,EMP0959,Female,43,Sales,Sales Manager,6672,2022-09-18,3,3,4,Yes,Bachelor,Yes,Kyiv
+960,EMP0960,Male,21,Marketing,Marketing Specialist,17807,2019-01-01,7,2,1,Yes,Bachelor,Yes,Gdansk
+961,EMP0961,Female,59,IT,BI Developer,14234,2025-02-19,1,2,3,No,High School,No,Gdansk
+962,EMP0962,Female,55,Operations,Coordinator,6872,2024-06-20,2,4,3,No,Master,No,Ternopil
+963,EMP0963,Female,41,Marketing,Marketing Specialist,14932,2006-03-31,20,5,5,Yes,Bachelor,No,Gdansk
+964,EMP0964,Male,29,Operations,Coordinator,17285,2018-06-21,8,5,2,No,High School,Yes,Kyiv
+965,EMP0965,Female,50,HR,HR Specialist,5371,2025-03-31,1,1,4,Yes,Master,No,Gdansk
+966,EMP0966,Female,52,HR,HR Specialist,3808,2025-03-09,1,4,4,No,Bachelor,Yes,Lviv
+967,EMP0967,Male,40,Finance,Accountant,4012,2012-11-02,13,5,3,Yes,High School,No,Ternopil
+968,EMP0968,Female,48,Marketing,Marketing Specialist,16322,2026-02-05,0,1,1,No,Master,No,Gdansk
+969,EMP0969,Female,36,Finance,Financial Analyst,5660,2021-01-16,5,1,3,No,Bachelor,Yes,Ternopil
+970,EMP0970,Female,44,HR,HR Specialist,7903,2024-09-17,1,3,5,Yes,Bachelor,No,Ternopil
+971,EMP0971,Male,49,HR,HR Specialist,3645,2011-12-09,14,4,1,No,Master,Yes,Gdansk
+972,EMP0972,Female,25,Sales,Sales Rep,10716,2017-09-22,8,2,3,No,Master,No,Lviv
+973,EMP0973,Male,35,IT,Support,5375,2021-05-16,5,1,2,No,Master,No,Kyiv
+974,EMP0974,Female,22,Marketing,Marketing Specialist,14614,2025-03-19,1,3,5,Yes,High School,Yes,Ternopil
+975,EMP0975,Male,53,Sales,Sales Rep,4768,2009-12-18,16,2,2,No,High School,No,Gdansk
+976,EMP0976,Male,41,Sales,Sales Manager,13444,2017-05-19,9,3,3,No,High School,No,Gdansk
+977,EMP0977,Male,39,HR,HR Specialist,5958,2021-01-23,5,5,1,Yes,High School,Yes,Ternopil
+978,EMP0978,Male,30,Marketing,Marketing Specialist,9743,2020-01-19,6,1,1,No,High School,No,Kyiv
+979,EMP0979,Female,41,Marketing,Marketing Specialist,7910,2006-12-05,19,2,5,No,Bachelor,No,Lviv
+980,EMP0980,Male,36,HR,HR Specialist,10791,2012-02-22,14,4,3,Yes,Master,Yes,Ternopil
+981,EMP0981,Female,47,Operations,Coordinator,7264,2007-04-08,19,5,2,No,Bachelor,No,Lviv
+982,EMP0982,Female,28,Marketing,Marketing Specialist,4835,2017-02-07,9,4,4,No,Bachelor,No,Lviv
+983,EMP0983,Male,47,IT,BI Developer,7815,2026-05-05,0,5,4,Yes,Bachelor,Yes,Gdansk
+984,EMP0984,Female,48,Sales,Sales Rep,9305,2024-05-23,2,2,4,No,Bachelor,No,Kyiv
+985,EMP0985,Male,23,HR,HR Specialist,4708,2007-09-26,18,3,4,No,High School,No,Gdansk
+986,EMP0986,Male,30,HR,HR Specialist,3627,2022-04-28,4,5,5,No,High School,No,Gdansk
+987,EMP0987,Female,27,HR,HR Specialist,7305,2020-11-12,5,3,4,No,Bachelor,No,Ternopil
+988,EMP0988,Male,23,HR,HR Specialist,16836,2016-05-01,10,2,4,No,Master,No,Kyiv
+989,EMP0989,Female,38,HR,HR Specialist,11473,2021-05-31,5,4,2,No,Master,No,Kyiv
+990,EMP0990,Male,34,IT,Support,12546,2018-05-20,8,5,2,Yes,High School,Yes,Lviv
+991,EMP0991,Male,39,Sales,Sales Manager,12857,2026-01-21,0,4,4,No,Bachelor,No,Ternopil
+992,EMP0992,Female,37,Sales,Sales Rep,4923,2011-12-24,14,2,3,Yes,Master,Yes,Lviv
+993,EMP0993,Female,38,Operations,Coordinator,10929,2016-05-12,10,5,1,No,Bachelor,No,Kyiv
+994,EMP0994,Male,21,Operations,Coordinator,7529,2019-10-19,6,2,5,No,Bachelor,Yes,Ternopil
+995,EMP0995,Female,39,Finance,Accountant,5659,2011-04-29,15,2,1,No,High School,Yes,Kyiv
+996,EMP0996,Male,32,Finance,Accountant,4135,2010-10-21,15,4,3,No,Master,Yes,Ternopil
+997,EMP0997,Female,52,Finance,Accountant,11531,2017-04-04,9,4,5,No,High School,No,Ternopil
+998,EMP0998,Female,49,Sales,Sales Rep,8831,2023-03-05,3,2,4,Yes,Bachelor,No,Ternopil
+999,EMP0999,Female,29,Operations,Coordinator,16176,2014-08-10,11,4,4,No,Master,Yes,Kyiv
+1000,EMP1000,Female,24,HR,HR Specialist,12712,2010-04-14,16,3,3,No,Master,No,Gdansk
